@@ -1,0 +1,2402 @@
+[
+  {
+    "nama": "Nasi Goreng Spesial",
+    "kategori": "Makanan Utama",
+    "porsi": "2 porsi",
+    "waktu_masak": "15 menit",
+    "tingkat_kesulitan": "Mudah",
+    "bahan": [
+      "Bahan utama untuk Nasi Goreng Spesial",
+      "Bumbu dasar: bawang merah, bawang putih, cabai",
+      "Rempah-rempah sesuai kebutuhan",
+      "Garam dan gula secukupnya",
+      "Minyak goreng untuk menumis"
+    ],
+    "langkah": [
+      "Siapkan semua bahan dan bumbu",
+      "Haluskan bumbu yang perlu dihaluskan",
+      "Tumis bumbu hingga harum untuk Nasi Goreng Spesial",
+      "Masukkan bahan utama, masak hingga matang",
+      "Tambahkan garam dan gula, koreksi rasa",
+      "Masak hingga bumbu meresap sempurna",
+      "Angkat dan sajikan hangat"
+    ],
+    "tips": "Untuk hasil terbaik Nasi Goreng Spesial, gunakan bahan segar dan bumbu berkualitas. Masak dengan api sedang agar bumbu meresap sempurna."
+  },
+  {
+    "nama": "Rendang Daging Sapi",
+    "kategori": "Makanan Utama",
+    "porsi": "3 porsi",
+    "waktu_masak": "20 menit",
+    "tingkat_kesulitan": "Sedang",
+    "bahan": [
+      "Bahan utama untuk Rendang Daging Sapi",
+      "Bumbu dasar: bawang merah, bawang putih, cabai",
+      "Rempah-rempah sesuai kebutuhan",
+      "Garam dan gula secukupnya",
+      "Minyak goreng untuk menumis"
+    ],
+    "langkah": [
+      "Siapkan semua bahan dan bumbu",
+      "Haluskan bumbu yang perlu dihaluskan",
+      "Tumis bumbu hingga harum untuk Rendang Daging Sapi",
+      "Masukkan bahan utama, masak hingga matang",
+      "Tambahkan garam dan gula, koreksi rasa",
+      "Masak hingga bumbu meresap sempurna",
+      "Angkat dan sajikan hangat"
+    ],
+    "tips": "Untuk hasil terbaik Rendang Daging Sapi, gunakan bahan segar dan bumbu berkualitas. Masak dengan api sedang agar bumbu meresap sempurna."
+  },
+  {
+    "nama": "Soto Ayam Kuning",
+    "kategori": "Makanan Berkuah",
+    "porsi": "4 porsi",
+    "waktu_masak": "30 menit",
+    "tingkat_kesulitan": "Sulit",
+    "bahan": [
+      "Bahan utama untuk Soto Ayam Kuning",
+      "Bumbu dasar: bawang merah, bawang putih, cabai",
+      "Rempah-rempah sesuai kebutuhan",
+      "Garam dan gula secukupnya",
+      "Minyak goreng untuk menumis"
+    ],
+    "langkah": [
+      "Siapkan semua bahan dan bumbu",
+      "Haluskan bumbu yang perlu dihaluskan",
+      "Tumis bumbu hingga harum untuk Soto Ayam Kuning",
+      "Masukkan bahan utama, masak hingga matang",
+      "Tambahkan garam dan gula, koreksi rasa",
+      "Masak hingga bumbu meresap sempurna",
+      "Angkat dan sajikan hangat"
+    ],
+    "tips": "Untuk hasil terbaik Soto Ayam Kuning, gunakan bahan segar dan bumbu berkualitas. Masak dengan api sedang agar bumbu meresap sempurna."
+  },
+  {
+    "nama": "Gado-Gado Jakarta",
+    "kategori": "Sayuran",
+    "porsi": "5 porsi",
+    "waktu_masak": "45 menit",
+    "tingkat_kesulitan": "Mudah",
+    "bahan": [
+      "Bahan utama untuk Gado-Gado Jakarta",
+      "Bumbu dasar: bawang merah, bawang putih, cabai",
+      "Rempah-rempah sesuai kebutuhan",
+      "Garam dan gula secukupnya",
+      "Minyak goreng untuk menumis"
+    ],
+    "langkah": [
+      "Siapkan semua bahan dan bumbu",
+      "Haluskan bumbu yang perlu dihaluskan",
+      "Tumis bumbu hingga harum untuk Gado-Gado Jakarta",
+      "Masukkan bahan utama, masak hingga matang",
+      "Tambahkan garam dan gula, koreksi rasa",
+      "Masak hingga bumbu meresap sempurna",
+      "Angkat dan sajikan hangat"
+    ],
+    "tips": "Untuk hasil terbaik Gado-Gado Jakarta, gunakan bahan segar dan bumbu berkualitas. Masak dengan api sedang agar bumbu meresap sempurna."
+  },
+  {
+    "nama": "Sate Ayam Madura",
+    "kategori": "Makanan Utama",
+    "porsi": "6 porsi",
+    "waktu_masak": "1 jam",
+    "tingkat_kesulitan": "Sedang",
+    "bahan": [
+      "Bahan utama untuk Sate Ayam Madura",
+      "Bumbu dasar: bawang merah, bawang putih, cabai",
+      "Rempah-rempah sesuai kebutuhan",
+      "Garam dan gula secukupnya",
+      "Minyak goreng untuk menumis"
+    ],
+    "langkah": [
+      "Siapkan semua bahan dan bumbu",
+      "Haluskan bumbu yang perlu dihaluskan",
+      "Tumis bumbu hingga harum untuk Sate Ayam Madura",
+      "Masukkan bahan utama, masak hingga matang",
+      "Tambahkan garam dan gula, koreksi rasa",
+      "Masak hingga bumbu meresap sempurna",
+      "Angkat dan sajikan hangat"
+    ],
+    "tips": "Untuk hasil terbaik Sate Ayam Madura, gunakan bahan segar dan bumbu berkualitas. Masak dengan api sedang agar bumbu meresap sempurna."
+  },
+  {
+    "nama": "Rawon Daging Sapi",
+    "kategori": "Makanan Berkuah",
+    "porsi": "2 porsi",
+    "waktu_masak": "1 jam 30 menit",
+    "tingkat_kesulitan": "Sulit",
+    "bahan": [
+      "Bahan utama untuk Rawon Daging Sapi",
+      "Bumbu dasar: bawang merah, bawang putih, cabai",
+      "Rempah-rempah sesuai kebutuhan",
+      "Garam dan gula secukupnya",
+      "Minyak goreng untuk menumis"
+    ],
+    "langkah": [
+      "Siapkan semua bahan dan bumbu",
+      "Haluskan bumbu yang perlu dihaluskan",
+      "Tumis bumbu hingga harum untuk Rawon Daging Sapi",
+      "Masukkan bahan utama, masak hingga matang",
+      "Tambahkan garam dan gula, koreksi rasa",
+      "Masak hingga bumbu meresap sempurna",
+      "Angkat dan sajikan hangat"
+    ],
+    "tips": "Untuk hasil terbaik Rawon Daging Sapi, gunakan bahan segar dan bumbu berkualitas. Masak dengan api sedang agar bumbu meresap sempurna."
+  },
+  {
+    "nama": "Pepes Ikan Mas",
+    "kategori": "Makanan Utama",
+    "porsi": "3 porsi",
+    "waktu_masak": "2 jam",
+    "tingkat_kesulitan": "Mudah",
+    "bahan": [
+      "Bahan utama untuk Pepes Ikan Mas",
+      "Bumbu dasar: bawang merah, bawang putih, cabai",
+      "Rempah-rempah sesuai kebutuhan",
+      "Garam dan gula secukupnya",
+      "Minyak goreng untuk menumis"
+    ],
+    "langkah": [
+      "Siapkan semua bahan dan bumbu",
+      "Haluskan bumbu yang perlu dihaluskan",
+      "Tumis bumbu hingga harum untuk Pepes Ikan Mas",
+      "Masukkan bahan utama, masak hingga matang",
+      "Tambahkan garam dan gula, koreksi rasa",
+      "Masak hingga bumbu meresap sempurna",
+      "Angkat dan sajikan hangat"
+    ],
+    "tips": "Untuk hasil terbaik Pepes Ikan Mas, gunakan bahan segar dan bumbu berkualitas. Masak dengan api sedang agar bumbu meresap sempurna."
+  },
+  {
+    "nama": "Bakso Sapi Kenyal",
+    "kategori": "Makanan Berkuah",
+    "porsi": "4 porsi",
+    "waktu_masak": "3 jam",
+    "tingkat_kesulitan": "Sedang",
+    "bahan": [
+      "Bahan utama untuk Bakso Sapi Kenyal",
+      "Bumbu dasar: bawang merah, bawang putih, cabai",
+      "Rempah-rempah sesuai kebutuhan",
+      "Garam dan gula secukupnya",
+      "Minyak goreng untuk menumis"
+    ],
+    "langkah": [
+      "Siapkan semua bahan dan bumbu",
+      "Haluskan bumbu yang perlu dihaluskan",
+      "Tumis bumbu hingga harum untuk Bakso Sapi Kenyal",
+      "Masukkan bahan utama, masak hingga matang",
+      "Tambahkan garam dan gula, koreksi rasa",
+      "Masak hingga bumbu meresap sempurna",
+      "Angkat dan sajikan hangat"
+    ],
+    "tips": "Untuk hasil terbaik Bakso Sapi Kenyal, gunakan bahan segar dan bumbu berkualitas. Masak dengan api sedang agar bumbu meresap sempurna."
+  },
+  {
+    "nama": "Opor Ayam Kampung",
+    "kategori": "Makanan Berkuah",
+    "porsi": "5 porsi",
+    "waktu_masak": "15 menit",
+    "tingkat_kesulitan": "Sulit",
+    "bahan": [
+      "Bahan utama untuk Opor Ayam Kampung",
+      "Bumbu dasar: bawang merah, bawang putih, cabai",
+      "Rempah-rempah sesuai kebutuhan",
+      "Garam dan gula secukupnya",
+      "Minyak goreng untuk menumis"
+    ],
+    "langkah": [
+      "Siapkan semua bahan dan bumbu",
+      "Haluskan bumbu yang perlu dihaluskan",
+      "Tumis bumbu hingga harum untuk Opor Ayam Kampung",
+      "Masukkan bahan utama, masak hingga matang",
+      "Tambahkan garam dan gula, koreksi rasa",
+      "Masak hingga bumbu meresap sempurna",
+      "Angkat dan sajikan hangat"
+    ],
+    "tips": "Untuk hasil terbaik Opor Ayam Kampung, gunakan bahan segar dan bumbu berkualitas. Masak dengan api sedang agar bumbu meresap sempurna."
+  },
+  {
+    "nama": "Sayur Asem Jakarta",
+    "kategori": "Sayuran",
+    "porsi": "6 porsi",
+    "waktu_masak": "20 menit",
+    "tingkat_kesulitan": "Mudah",
+    "bahan": [
+      "Bahan utama untuk Sayur Asem Jakarta",
+      "Bumbu dasar: bawang merah, bawang putih, cabai",
+      "Rempah-rempah sesuai kebutuhan",
+      "Garam dan gula secukupnya",
+      "Minyak goreng untuk menumis"
+    ],
+    "langkah": [
+      "Siapkan semua bahan dan bumbu",
+      "Haluskan bumbu yang perlu dihaluskan",
+      "Tumis bumbu hingga harum untuk Sayur Asem Jakarta",
+      "Masukkan bahan utama, masak hingga matang",
+      "Tambahkan garam dan gula, koreksi rasa",
+      "Masak hingga bumbu meresap sempurna",
+      "Angkat dan sajikan hangat"
+    ],
+    "tips": "Untuk hasil terbaik Sayur Asem Jakarta, gunakan bahan segar dan bumbu berkualitas. Masak dengan api sedang agar bumbu meresap sempurna."
+  },
+  {
+    "nama": "Ayam Geprek Sambal Bawang",
+    "kategori": "Makanan Utama",
+    "porsi": "2 porsi",
+    "waktu_masak": "30 menit",
+    "tingkat_kesulitan": "Sedang",
+    "bahan": [
+      "Bahan utama untuk Ayam Geprek Sambal Bawang",
+      "Bumbu dasar: bawang merah, bawang putih, cabai",
+      "Rempah-rempah sesuai kebutuhan",
+      "Garam dan gula secukupnya",
+      "Minyak goreng untuk menumis"
+    ],
+    "langkah": [
+      "Siapkan semua bahan dan bumbu",
+      "Haluskan bumbu yang perlu dihaluskan",
+      "Tumis bumbu hingga harum untuk Ayam Geprek Sambal Bawang",
+      "Masukkan bahan utama, masak hingga matang",
+      "Tambahkan garam dan gula, koreksi rasa",
+      "Masak hingga bumbu meresap sempurna",
+      "Angkat dan sajikan hangat"
+    ],
+    "tips": "Untuk hasil terbaik Ayam Geprek Sambal Bawang, gunakan bahan segar dan bumbu berkualitas. Masak dengan api sedang agar bumbu meresap sempurna."
+  },
+  {
+    "nama": "Gudeg Jogja",
+    "kategori": "Makanan Tradisional",
+    "porsi": "3 porsi",
+    "waktu_masak": "45 menit",
+    "tingkat_kesulitan": "Sulit",
+    "bahan": [
+      "Bahan utama untuk Gudeg Jogja",
+      "Bumbu dasar: bawang merah, bawang putih, cabai",
+      "Rempah-rempah sesuai kebutuhan",
+      "Garam dan gula secukupnya",
+      "Minyak goreng untuk menumis"
+    ],
+    "langkah": [
+      "Siapkan semua bahan dan bumbu",
+      "Haluskan bumbu yang perlu dihaluskan",
+      "Tumis bumbu hingga harum untuk Gudeg Jogja",
+      "Masukkan bahan utama, masak hingga matang",
+      "Tambahkan garam dan gula, koreksi rasa",
+      "Masak hingga bumbu meresap sempurna",
+      "Angkat dan sajikan hangat"
+    ],
+    "tips": "Untuk hasil terbaik Gudeg Jogja, gunakan bahan segar dan bumbu berkualitas. Masak dengan api sedang agar bumbu meresap sempurna."
+  },
+  {
+    "nama": "Pempek Palembang",
+    "kategori": "Makanan Tradisional",
+    "porsi": "4 porsi",
+    "waktu_masak": "1 jam",
+    "tingkat_kesulitan": "Mudah",
+    "bahan": [
+      "Bahan utama untuk Pempek Palembang",
+      "Bumbu dasar: bawang merah, bawang putih, cabai",
+      "Rempah-rempah sesuai kebutuhan",
+      "Garam dan gula secukupnya",
+      "Minyak goreng untuk menumis"
+    ],
+    "langkah": [
+      "Siapkan semua bahan dan bumbu",
+      "Haluskan bumbu yang perlu dihaluskan",
+      "Tumis bumbu hingga harum untuk Pempek Palembang",
+      "Masukkan bahan utama, masak hingga matang",
+      "Tambahkan garam dan gula, koreksi rasa",
+      "Masak hingga bumbu meresap sempurna",
+      "Angkat dan sajikan hangat"
+    ],
+    "tips": "Untuk hasil terbaik Pempek Palembang, gunakan bahan segar dan bumbu berkualitas. Masak dengan api sedang agar bumbu meresap sempurna."
+  },
+  {
+    "nama": "Sop Buntut Sapi",
+    "kategori": "Makanan Berkuah",
+    "porsi": "5 porsi",
+    "waktu_masak": "1 jam 30 menit",
+    "tingkat_kesulitan": "Sedang",
+    "bahan": [
+      "Bahan utama untuk Sop Buntut Sapi",
+      "Bumbu dasar: bawang merah, bawang putih, cabai",
+      "Rempah-rempah sesuai kebutuhan",
+      "Garam dan gula secukupnya",
+      "Minyak goreng untuk menumis"
+    ],
+    "langkah": [
+      "Siapkan semua bahan dan bumbu",
+      "Haluskan bumbu yang perlu dihaluskan",
+      "Tumis bumbu hingga harum untuk Sop Buntut Sapi",
+      "Masukkan bahan utama, masak hingga matang",
+      "Tambahkan garam dan gula, koreksi rasa",
+      "Masak hingga bumbu meresap sempurna",
+      "Angkat dan sajikan hangat"
+    ],
+    "tips": "Untuk hasil terbaik Sop Buntut Sapi, gunakan bahan segar dan bumbu berkualitas. Masak dengan api sedang agar bumbu meresap sempurna."
+  },
+  {
+    "nama": "Martabak Telur Daging",
+    "kategori": "Makanan Ringan",
+    "porsi": "6 porsi",
+    "waktu_masak": "2 jam",
+    "tingkat_kesulitan": "Sulit",
+    "bahan": [
+      "Bahan utama untuk Martabak Telur Daging",
+      "Bumbu dasar: bawang merah, bawang putih, cabai",
+      "Rempah-rempah sesuai kebutuhan",
+      "Garam dan gula secukupnya",
+      "Minyak goreng untuk menumis"
+    ],
+    "langkah": [
+      "Siapkan semua bahan dan bumbu",
+      "Haluskan bumbu yang perlu dihaluskan",
+      "Tumis bumbu hingga harum untuk Martabak Telur Daging",
+      "Masukkan bahan utama, masak hingga matang",
+      "Tambahkan garam dan gula, koreksi rasa",
+      "Masak hingga bumbu meresap sempurna",
+      "Angkat dan sajikan hangat"
+    ],
+    "tips": "Untuk hasil terbaik Martabak Telur Daging, gunakan bahan segar dan bumbu berkualitas. Masak dengan api sedang agar bumbu meresap sempurna."
+  },
+  {
+    "nama": "Nasi Goreng Seafood",
+    "kategori": "Makanan Utama",
+    "porsi": "2 porsi",
+    "waktu_masak": "3 jam",
+    "tingkat_kesulitan": "Mudah",
+    "bahan": [
+      "Bahan utama untuk Nasi Goreng Seafood",
+      "Bumbu dasar: bawang merah, bawang putih, cabai",
+      "Rempah-rempah sesuai kebutuhan",
+      "Garam dan gula secukupnya",
+      "Minyak goreng untuk menumis"
+    ],
+    "langkah": [
+      "Siapkan semua bahan dan bumbu",
+      "Haluskan bumbu yang perlu dihaluskan",
+      "Tumis bumbu hingga harum untuk Nasi Goreng Seafood",
+      "Masukkan bahan utama, masak hingga matang",
+      "Tambahkan garam dan gula, koreksi rasa",
+      "Masak hingga bumbu meresap sempurna",
+      "Angkat dan sajikan hangat"
+    ],
+    "tips": "Untuk hasil terbaik Nasi Goreng Seafood, gunakan bahan segar dan bumbu berkualitas. Masak dengan api sedang agar bumbu meresap sempurna."
+  },
+  {
+    "nama": "Nasi Goreng Kambing",
+    "kategori": "Makanan Utama",
+    "porsi": "3 porsi",
+    "waktu_masak": "15 menit",
+    "tingkat_kesulitan": "Sedang",
+    "bahan": [
+      "Bahan utama untuk Nasi Goreng Kambing",
+      "Bumbu dasar: bawang merah, bawang putih, cabai",
+      "Rempah-rempah sesuai kebutuhan",
+      "Garam dan gula secukupnya",
+      "Minyak goreng untuk menumis"
+    ],
+    "langkah": [
+      "Siapkan semua bahan dan bumbu",
+      "Haluskan bumbu yang perlu dihaluskan",
+      "Tumis bumbu hingga harum untuk Nasi Goreng Kambing",
+      "Masukkan bahan utama, masak hingga matang",
+      "Tambahkan garam dan gula, koreksi rasa",
+      "Masak hingga bumbu meresap sempurna",
+      "Angkat dan sajikan hangat"
+    ],
+    "tips": "Untuk hasil terbaik Nasi Goreng Kambing, gunakan bahan segar dan bumbu berkualitas. Masak dengan api sedang agar bumbu meresap sempurna."
+  },
+  {
+    "nama": "Nasi Goreng Jawa",
+    "kategori": "Makanan Utama",
+    "porsi": "4 porsi",
+    "waktu_masak": "20 menit",
+    "tingkat_kesulitan": "Sulit",
+    "bahan": [
+      "Bahan utama untuk Nasi Goreng Jawa",
+      "Bumbu dasar: bawang merah, bawang putih, cabai",
+      "Rempah-rempah sesuai kebutuhan",
+      "Garam dan gula secukupnya",
+      "Minyak goreng untuk menumis"
+    ],
+    "langkah": [
+      "Siapkan semua bahan dan bumbu",
+      "Haluskan bumbu yang perlu dihaluskan",
+      "Tumis bumbu hingga harum untuk Nasi Goreng Jawa",
+      "Masukkan bahan utama, masak hingga matang",
+      "Tambahkan garam dan gula, koreksi rasa",
+      "Masak hingga bumbu meresap sempurna",
+      "Angkat dan sajikan hangat"
+    ],
+    "tips": "Untuk hasil terbaik Nasi Goreng Jawa, gunakan bahan segar dan bumbu berkualitas. Masak dengan api sedang agar bumbu meresap sempurna."
+  },
+  {
+    "nama": "Nasi Goreng Kampung",
+    "kategori": "Makanan Utama",
+    "porsi": "5 porsi",
+    "waktu_masak": "30 menit",
+    "tingkat_kesulitan": "Mudah",
+    "bahan": [
+      "Bahan utama untuk Nasi Goreng Kampung",
+      "Bumbu dasar: bawang merah, bawang putih, cabai",
+      "Rempah-rempah sesuai kebutuhan",
+      "Garam dan gula secukupnya",
+      "Minyak goreng untuk menumis"
+    ],
+    "langkah": [
+      "Siapkan semua bahan dan bumbu",
+      "Haluskan bumbu yang perlu dihaluskan",
+      "Tumis bumbu hingga harum untuk Nasi Goreng Kampung",
+      "Masukkan bahan utama, masak hingga matang",
+      "Tambahkan garam dan gula, koreksi rasa",
+      "Masak hingga bumbu meresap sempurna",
+      "Angkat dan sajikan hangat"
+    ],
+    "tips": "Untuk hasil terbaik Nasi Goreng Kampung, gunakan bahan segar dan bumbu berkualitas. Masak dengan api sedang agar bumbu meresap sempurna."
+  },
+  {
+    "nama": "Nasi Goreng Pete",
+    "kategori": "Makanan Utama",
+    "porsi": "6 porsi",
+    "waktu_masak": "45 menit",
+    "tingkat_kesulitan": "Sedang",
+    "bahan": [
+      "Bahan utama untuk Nasi Goreng Pete",
+      "Bumbu dasar: bawang merah, bawang putih, cabai",
+      "Rempah-rempah sesuai kebutuhan",
+      "Garam dan gula secukupnya",
+      "Minyak goreng untuk menumis"
+    ],
+    "langkah": [
+      "Siapkan semua bahan dan bumbu",
+      "Haluskan bumbu yang perlu dihaluskan",
+      "Tumis bumbu hingga harum untuk Nasi Goreng Pete",
+      "Masukkan bahan utama, masak hingga matang",
+      "Tambahkan garam dan gula, koreksi rasa",
+      "Masak hingga bumbu meresap sempurna",
+      "Angkat dan sajikan hangat"
+    ],
+    "tips": "Untuk hasil terbaik Nasi Goreng Pete, gunakan bahan segar dan bumbu berkualitas. Masak dengan api sedang agar bumbu meresap sempurna."
+  },
+  {
+    "nama": "Nasi Kuning Komplit",
+    "kategori": "Makanan Utama",
+    "porsi": "2 porsi",
+    "waktu_masak": "1 jam",
+    "tingkat_kesulitan": "Sulit",
+    "bahan": [
+      "Bahan utama untuk Nasi Kuning Komplit",
+      "Bumbu dasar: bawang merah, bawang putih, cabai",
+      "Rempah-rempah sesuai kebutuhan",
+      "Garam dan gula secukupnya",
+      "Minyak goreng untuk menumis"
+    ],
+    "langkah": [
+      "Siapkan semua bahan dan bumbu",
+      "Haluskan bumbu yang perlu dihaluskan",
+      "Tumis bumbu hingga harum untuk Nasi Kuning Komplit",
+      "Masukkan bahan utama, masak hingga matang",
+      "Tambahkan garam dan gula, koreksi rasa",
+      "Masak hingga bumbu meresap sempurna",
+      "Angkat dan sajikan hangat"
+    ],
+    "tips": "Untuk hasil terbaik Nasi Kuning Komplit, gunakan bahan segar dan bumbu berkualitas. Masak dengan api sedang agar bumbu meresap sempurna."
+  },
+  {
+    "nama": "Nasi Uduk Betawi",
+    "kategori": "Makanan Utama",
+    "porsi": "3 porsi",
+    "waktu_masak": "1 jam 30 menit",
+    "tingkat_kesulitan": "Mudah",
+    "bahan": [
+      "Bahan utama untuk Nasi Uduk Betawi",
+      "Bumbu dasar: bawang merah, bawang putih, cabai",
+      "Rempah-rempah sesuai kebutuhan",
+      "Garam dan gula secukupnya",
+      "Minyak goreng untuk menumis"
+    ],
+    "langkah": [
+      "Siapkan semua bahan dan bumbu",
+      "Haluskan bumbu yang perlu dihaluskan",
+      "Tumis bumbu hingga harum untuk Nasi Uduk Betawi",
+      "Masukkan bahan utama, masak hingga matang",
+      "Tambahkan garam dan gula, koreksi rasa",
+      "Masak hingga bumbu meresap sempurna",
+      "Angkat dan sajikan hangat"
+    ],
+    "tips": "Untuk hasil terbaik Nasi Uduk Betawi, gunakan bahan segar dan bumbu berkualitas. Masak dengan api sedang agar bumbu meresap sempurna."
+  },
+  {
+    "nama": "Nasi Liwet Solo",
+    "kategori": "Makanan Utama",
+    "porsi": "4 porsi",
+    "waktu_masak": "2 jam",
+    "tingkat_kesulitan": "Sedang",
+    "bahan": [
+      "Bahan utama untuk Nasi Liwet Solo",
+      "Bumbu dasar: bawang merah, bawang putih, cabai",
+      "Rempah-rempah sesuai kebutuhan",
+      "Garam dan gula secukupnya",
+      "Minyak goreng untuk menumis"
+    ],
+    "langkah": [
+      "Siapkan semua bahan dan bumbu",
+      "Haluskan bumbu yang perlu dihaluskan",
+      "Tumis bumbu hingga harum untuk Nasi Liwet Solo",
+      "Masukkan bahan utama, masak hingga matang",
+      "Tambahkan garam dan gula, koreksi rasa",
+      "Masak hingga bumbu meresap sempurna",
+      "Angkat dan sajikan hangat"
+    ],
+    "tips": "Untuk hasil terbaik Nasi Liwet Solo, gunakan bahan segar dan bumbu berkualitas. Masak dengan api sedang agar bumbu meresap sempurna."
+  },
+  {
+    "nama": "Mie Goreng Jawa",
+    "kategori": "Makanan Utama",
+    "porsi": "5 porsi",
+    "waktu_masak": "3 jam",
+    "tingkat_kesulitan": "Sulit",
+    "bahan": [
+      "Bahan utama untuk Mie Goreng Jawa",
+      "Bumbu dasar: bawang merah, bawang putih, cabai",
+      "Rempah-rempah sesuai kebutuhan",
+      "Garam dan gula secukupnya",
+      "Minyak goreng untuk menumis"
+    ],
+    "langkah": [
+      "Siapkan semua bahan dan bumbu",
+      "Haluskan bumbu yang perlu dihaluskan",
+      "Tumis bumbu hingga harum untuk Mie Goreng Jawa",
+      "Masukkan bahan utama, masak hingga matang",
+      "Tambahkan garam dan gula, koreksi rasa",
+      "Masak hingga bumbu meresap sempurna",
+      "Angkat dan sajikan hangat"
+    ],
+    "tips": "Untuk hasil terbaik Mie Goreng Jawa, gunakan bahan segar dan bumbu berkualitas. Masak dengan api sedang agar bumbu meresap sempurna."
+  },
+  {
+    "nama": "Mie Ayam Bakso",
+    "kategori": "Makanan Utama",
+    "porsi": "6 porsi",
+    "waktu_masak": "15 menit",
+    "tingkat_kesulitan": "Mudah",
+    "bahan": [
+      "Bahan utama untuk Mie Ayam Bakso",
+      "Bumbu dasar: bawang merah, bawang putih, cabai",
+      "Rempah-rempah sesuai kebutuhan",
+      "Garam dan gula secukupnya",
+      "Minyak goreng untuk menumis"
+    ],
+    "langkah": [
+      "Siapkan semua bahan dan bumbu",
+      "Haluskan bumbu yang perlu dihaluskan",
+      "Tumis bumbu hingga harum untuk Mie Ayam Bakso",
+      "Masukkan bahan utama, masak hingga matang",
+      "Tambahkan garam dan gula, koreksi rasa",
+      "Masak hingga bumbu meresap sempurna",
+      "Angkat dan sajikan hangat"
+    ],
+    "tips": "Untuk hasil terbaik Mie Ayam Bakso, gunakan bahan segar dan bumbu berkualitas. Masak dengan api sedang agar bumbu meresap sempurna."
+  },
+  {
+    "nama": "Kwetiau Goreng",
+    "kategori": "Makanan Utama",
+    "porsi": "2 porsi",
+    "waktu_masak": "20 menit",
+    "tingkat_kesulitan": "Sedang",
+    "bahan": [
+      "Bahan utama untuk Kwetiau Goreng",
+      "Bumbu dasar: bawang merah, bawang putih, cabai",
+      "Rempah-rempah sesuai kebutuhan",
+      "Garam dan gula secukupnya",
+      "Minyak goreng untuk menumis"
+    ],
+    "langkah": [
+      "Siapkan semua bahan dan bumbu",
+      "Haluskan bumbu yang perlu dihaluskan",
+      "Tumis bumbu hingga harum untuk Kwetiau Goreng",
+      "Masukkan bahan utama, masak hingga matang",
+      "Tambahkan garam dan gula, koreksi rasa",
+      "Masak hingga bumbu meresap sempurna",
+      "Angkat dan sajikan hangat"
+    ],
+    "tips": "Untuk hasil terbaik Kwetiau Goreng, gunakan bahan segar dan bumbu berkualitas. Masak dengan api sedang agar bumbu meresap sempurna."
+  },
+  {
+    "nama": "Bihun Goreng",
+    "kategori": "Makanan Utama",
+    "porsi": "3 porsi",
+    "waktu_masak": "30 menit",
+    "tingkat_kesulitan": "Sulit",
+    "bahan": [
+      "Bahan utama untuk Bihun Goreng",
+      "Bumbu dasar: bawang merah, bawang putih, cabai",
+      "Rempah-rempah sesuai kebutuhan",
+      "Garam dan gula secukupnya",
+      "Minyak goreng untuk menumis"
+    ],
+    "langkah": [
+      "Siapkan semua bahan dan bumbu",
+      "Haluskan bumbu yang perlu dihaluskan",
+      "Tumis bumbu hingga harum untuk Bihun Goreng",
+      "Masukkan bahan utama, masak hingga matang",
+      "Tambahkan garam dan gula, koreksi rasa",
+      "Masak hingga bumbu meresap sempurna",
+      "Angkat dan sajikan hangat"
+    ],
+    "tips": "Untuk hasil terbaik Bihun Goreng, gunakan bahan segar dan bumbu berkualitas. Masak dengan api sedang agar bumbu meresap sempurna."
+  },
+  {
+    "nama": "Capcay Kuah",
+    "kategori": "Sayuran",
+    "porsi": "4 porsi",
+    "waktu_masak": "45 menit",
+    "tingkat_kesulitan": "Mudah",
+    "bahan": [
+      "Bahan utama untuk Capcay Kuah",
+      "Bumbu dasar: bawang merah, bawang putih, cabai",
+      "Rempah-rempah sesuai kebutuhan",
+      "Garam dan gula secukupnya",
+      "Minyak goreng untuk menumis"
+    ],
+    "langkah": [
+      "Siapkan semua bahan dan bumbu",
+      "Haluskan bumbu yang perlu dihaluskan",
+      "Tumis bumbu hingga harum untuk Capcay Kuah",
+      "Masukkan bahan utama, masak hingga matang",
+      "Tambahkan garam dan gula, koreksi rasa",
+      "Masak hingga bumbu meresap sempurna",
+      "Angkat dan sajikan hangat"
+    ],
+    "tips": "Untuk hasil terbaik Capcay Kuah, gunakan bahan segar dan bumbu berkualitas. Masak dengan api sedang agar bumbu meresap sempurna."
+  },
+  {
+    "nama": "Tumis Kangkung Terasi",
+    "kategori": "Sayuran",
+    "porsi": "5 porsi",
+    "waktu_masak": "1 jam",
+    "tingkat_kesulitan": "Sedang",
+    "bahan": [
+      "Bahan utama untuk Tumis Kangkung Terasi",
+      "Bumbu dasar: bawang merah, bawang putih, cabai",
+      "Rempah-rempah sesuai kebutuhan",
+      "Garam dan gula secukupnya",
+      "Minyak goreng untuk menumis"
+    ],
+    "langkah": [
+      "Siapkan semua bahan dan bumbu",
+      "Haluskan bumbu yang perlu dihaluskan",
+      "Tumis bumbu hingga harum untuk Tumis Kangkung Terasi",
+      "Masukkan bahan utama, masak hingga matang",
+      "Tambahkan garam dan gula, koreksi rasa",
+      "Masak hingga bumbu meresap sempurna",
+      "Angkat dan sajikan hangat"
+    ],
+    "tips": "Untuk hasil terbaik Tumis Kangkung Terasi, gunakan bahan segar dan bumbu berkualitas. Masak dengan api sedang agar bumbu meresap sempurna."
+  },
+  {
+    "nama": "Tumis Tauge",
+    "kategori": "Sayuran",
+    "porsi": "6 porsi",
+    "waktu_masak": "1 jam 30 menit",
+    "tingkat_kesulitan": "Sulit",
+    "bahan": [
+      "Bahan utama untuk Tumis Tauge",
+      "Bumbu dasar: bawang merah, bawang putih, cabai",
+      "Rempah-rempah sesuai kebutuhan",
+      "Garam dan gula secukupnya",
+      "Minyak goreng untuk menumis"
+    ],
+    "langkah": [
+      "Siapkan semua bahan dan bumbu",
+      "Haluskan bumbu yang perlu dihaluskan",
+      "Tumis bumbu hingga harum untuk Tumis Tauge",
+      "Masukkan bahan utama, masak hingga matang",
+      "Tambahkan garam dan gula, koreksi rasa",
+      "Masak hingga bumbu meresap sempurna",
+      "Angkat dan sajikan hangat"
+    ],
+    "tips": "Untuk hasil terbaik Tumis Tauge, gunakan bahan segar dan bumbu berkualitas. Masak dengan api sedang agar bumbu meresap sempurna."
+  },
+  {
+    "nama": "Oseng Tempe",
+    "kategori": "Sayuran",
+    "porsi": "2 porsi",
+    "waktu_masak": "2 jam",
+    "tingkat_kesulitan": "Mudah",
+    "bahan": [
+      "Bahan utama untuk Oseng Tempe",
+      "Bumbu dasar: bawang merah, bawang putih, cabai",
+      "Rempah-rempah sesuai kebutuhan",
+      "Garam dan gula secukupnya",
+      "Minyak goreng untuk menumis"
+    ],
+    "langkah": [
+      "Siapkan semua bahan dan bumbu",
+      "Haluskan bumbu yang perlu dihaluskan",
+      "Tumis bumbu hingga harum untuk Oseng Tempe",
+      "Masukkan bahan utama, masak hingga matang",
+      "Tambahkan garam dan gula, koreksi rasa",
+      "Masak hingga bumbu meresap sempurna",
+      "Angkat dan sajikan hangat"
+    ],
+    "tips": "Untuk hasil terbaik Oseng Tempe, gunakan bahan segar dan bumbu berkualitas. Masak dengan api sedang agar bumbu meresap sempurna."
+  },
+  {
+    "nama": "Sate Kambing Madura",
+    "kategori": "Makanan Utama",
+    "porsi": "3 porsi",
+    "waktu_masak": "3 jam",
+    "tingkat_kesulitan": "Sedang",
+    "bahan": [
+      "Bahan utama untuk Sate Kambing Madura",
+      "Bumbu dasar: bawang merah, bawang putih, cabai",
+      "Rempah-rempah sesuai kebutuhan",
+      "Garam dan gula secukupnya",
+      "Minyak goreng untuk menumis"
+    ],
+    "langkah": [
+      "Siapkan semua bahan dan bumbu",
+      "Haluskan bumbu yang perlu dihaluskan",
+      "Tumis bumbu hingga harum untuk Sate Kambing Madura",
+      "Masukkan bahan utama, masak hingga matang",
+      "Tambahkan garam dan gula, koreksi rasa",
+      "Masak hingga bumbu meresap sempurna",
+      "Angkat dan sajikan hangat"
+    ],
+    "tips": "Untuk hasil terbaik Sate Kambing Madura, gunakan bahan segar dan bumbu berkualitas. Masak dengan api sedang agar bumbu meresap sempurna."
+  },
+  {
+    "nama": "Sate Padang",
+    "kategori": "Makanan Utama",
+    "porsi": "4 porsi",
+    "waktu_masak": "15 menit",
+    "tingkat_kesulitan": "Sulit",
+    "bahan": [
+      "Bahan utama untuk Sate Padang",
+      "Bumbu dasar: bawang merah, bawang putih, cabai",
+      "Rempah-rempah sesuai kebutuhan",
+      "Garam dan gula secukupnya",
+      "Minyak goreng untuk menumis"
+    ],
+    "langkah": [
+      "Siapkan semua bahan dan bumbu",
+      "Haluskan bumbu yang perlu dihaluskan",
+      "Tumis bumbu hingga harum untuk Sate Padang",
+      "Masukkan bahan utama, masak hingga matang",
+      "Tambahkan garam dan gula, koreksi rasa",
+      "Masak hingga bumbu meresap sempurna",
+      "Angkat dan sajikan hangat"
+    ],
+    "tips": "Untuk hasil terbaik Sate Padang, gunakan bahan segar dan bumbu berkualitas. Masak dengan api sedang agar bumbu meresap sempurna."
+  },
+  {
+    "nama": "Sate Lilit Bali",
+    "kategori": "Makanan Utama",
+    "porsi": "5 porsi",
+    "waktu_masak": "20 menit",
+    "tingkat_kesulitan": "Mudah",
+    "bahan": [
+      "Bahan utama untuk Sate Lilit Bali",
+      "Bumbu dasar: bawang merah, bawang putih, cabai",
+      "Rempah-rempah sesuai kebutuhan",
+      "Garam dan gula secukupnya",
+      "Minyak goreng untuk menumis"
+    ],
+    "langkah": [
+      "Siapkan semua bahan dan bumbu",
+      "Haluskan bumbu yang perlu dihaluskan",
+      "Tumis bumbu hingga harum untuk Sate Lilit Bali",
+      "Masukkan bahan utama, masak hingga matang",
+      "Tambahkan garam dan gula, koreksi rasa",
+      "Masak hingga bumbu meresap sempurna",
+      "Angkat dan sajikan hangat"
+    ],
+    "tips": "Untuk hasil terbaik Sate Lilit Bali, gunakan bahan segar dan bumbu berkualitas. Masak dengan api sedang agar bumbu meresap sempurna."
+  },
+  {
+    "nama": "Sate Taichan",
+    "kategori": "Makanan Utama",
+    "porsi": "6 porsi",
+    "waktu_masak": "30 menit",
+    "tingkat_kesulitan": "Sedang",
+    "bahan": [
+      "Bahan utama untuk Sate Taichan",
+      "Bumbu dasar: bawang merah, bawang putih, cabai",
+      "Rempah-rempah sesuai kebutuhan",
+      "Garam dan gula secukupnya",
+      "Minyak goreng untuk menumis"
+    ],
+    "langkah": [
+      "Siapkan semua bahan dan bumbu",
+      "Haluskan bumbu yang perlu dihaluskan",
+      "Tumis bumbu hingga harum untuk Sate Taichan",
+      "Masukkan bahan utama, masak hingga matang",
+      "Tambahkan garam dan gula, koreksi rasa",
+      "Masak hingga bumbu meresap sempurna",
+      "Angkat dan sajikan hangat"
+    ],
+    "tips": "Untuk hasil terbaik Sate Taichan, gunakan bahan segar dan bumbu berkualitas. Masak dengan api sedang agar bumbu meresap sempurna."
+  },
+  {
+    "nama": "Rendang Ayam",
+    "kategori": "Makanan Utama",
+    "porsi": "2 porsi",
+    "waktu_masak": "45 menit",
+    "tingkat_kesulitan": "Sulit",
+    "bahan": [
+      "Bahan utama untuk Rendang Ayam",
+      "Bumbu dasar: bawang merah, bawang putih, cabai",
+      "Rempah-rempah sesuai kebutuhan",
+      "Garam dan gula secukupnya",
+      "Minyak goreng untuk menumis"
+    ],
+    "langkah": [
+      "Siapkan semua bahan dan bumbu",
+      "Haluskan bumbu yang perlu dihaluskan",
+      "Tumis bumbu hingga harum untuk Rendang Ayam",
+      "Masukkan bahan utama, masak hingga matang",
+      "Tambahkan garam dan gula, koreksi rasa",
+      "Masak hingga bumbu meresap sempurna",
+      "Angkat dan sajikan hangat"
+    ],
+    "tips": "Untuk hasil terbaik Rendang Ayam, gunakan bahan segar dan bumbu berkualitas. Masak dengan api sedang agar bumbu meresap sempurna."
+  },
+  {
+    "nama": "Rendang Jengkol",
+    "kategori": "Makanan Utama",
+    "porsi": "3 porsi",
+    "waktu_masak": "1 jam",
+    "tingkat_kesulitan": "Mudah",
+    "bahan": [
+      "Bahan utama untuk Rendang Jengkol",
+      "Bumbu dasar: bawang merah, bawang putih, cabai",
+      "Rempah-rempah sesuai kebutuhan",
+      "Garam dan gula secukupnya",
+      "Minyak goreng untuk menumis"
+    ],
+    "langkah": [
+      "Siapkan semua bahan dan bumbu",
+      "Haluskan bumbu yang perlu dihaluskan",
+      "Tumis bumbu hingga harum untuk Rendang Jengkol",
+      "Masukkan bahan utama, masak hingga matang",
+      "Tambahkan garam dan gula, koreksi rasa",
+      "Masak hingga bumbu meresap sempurna",
+      "Angkat dan sajikan hangat"
+    ],
+    "tips": "Untuk hasil terbaik Rendang Jengkol, gunakan bahan segar dan bumbu berkualitas. Masak dengan api sedang agar bumbu meresap sempurna."
+  },
+  {
+    "nama": "Gulai Kambing",
+    "kategori": "Makanan Berkuah",
+    "porsi": "4 porsi",
+    "waktu_masak": "1 jam 30 menit",
+    "tingkat_kesulitan": "Sedang",
+    "bahan": [
+      "Bahan utama untuk Gulai Kambing",
+      "Bumbu dasar: bawang merah, bawang putih, cabai",
+      "Rempah-rempah sesuai kebutuhan",
+      "Garam dan gula secukupnya",
+      "Minyak goreng untuk menumis"
+    ],
+    "langkah": [
+      "Siapkan semua bahan dan bumbu",
+      "Haluskan bumbu yang perlu dihaluskan",
+      "Tumis bumbu hingga harum untuk Gulai Kambing",
+      "Masukkan bahan utama, masak hingga matang",
+      "Tambahkan garam dan gula, koreksi rasa",
+      "Masak hingga bumbu meresap sempurna",
+      "Angkat dan sajikan hangat"
+    ],
+    "tips": "Untuk hasil terbaik Gulai Kambing, gunakan bahan segar dan bumbu berkualitas. Masak dengan api sedang agar bumbu meresap sempurna."
+  },
+  {
+    "nama": "Gulai Ikan",
+    "kategori": "Makanan Berkuah",
+    "porsi": "5 porsi",
+    "waktu_masak": "2 jam",
+    "tingkat_kesulitan": "Sulit",
+    "bahan": [
+      "Bahan utama untuk Gulai Ikan",
+      "Bumbu dasar: bawang merah, bawang putih, cabai",
+      "Rempah-rempah sesuai kebutuhan",
+      "Garam dan gula secukupnya",
+      "Minyak goreng untuk menumis"
+    ],
+    "langkah": [
+      "Siapkan semua bahan dan bumbu",
+      "Haluskan bumbu yang perlu dihaluskan",
+      "Tumis bumbu hingga harum untuk Gulai Ikan",
+      "Masukkan bahan utama, masak hingga matang",
+      "Tambahkan garam dan gula, koreksi rasa",
+      "Masak hingga bumbu meresap sempurna",
+      "Angkat dan sajikan hangat"
+    ],
+    "tips": "Untuk hasil terbaik Gulai Ikan, gunakan bahan segar dan bumbu berkualitas. Masak dengan api sedang agar bumbu meresap sempurna."
+  },
+  {
+    "nama": "Soto Lamongan",
+    "kategori": "Makanan Berkuah",
+    "porsi": "6 porsi",
+    "waktu_masak": "3 jam",
+    "tingkat_kesulitan": "Mudah",
+    "bahan": [
+      "Bahan utama untuk Soto Lamongan",
+      "Bumbu dasar: bawang merah, bawang putih, cabai",
+      "Rempah-rempah sesuai kebutuhan",
+      "Garam dan gula secukupnya",
+      "Minyak goreng untuk menumis"
+    ],
+    "langkah": [
+      "Siapkan semua bahan dan bumbu",
+      "Haluskan bumbu yang perlu dihaluskan",
+      "Tumis bumbu hingga harum untuk Soto Lamongan",
+      "Masukkan bahan utama, masak hingga matang",
+      "Tambahkan garam dan gula, koreksi rasa",
+      "Masak hingga bumbu meresap sempurna",
+      "Angkat dan sajikan hangat"
+    ],
+    "tips": "Untuk hasil terbaik Soto Lamongan, gunakan bahan segar dan bumbu berkualitas. Masak dengan api sedang agar bumbu meresap sempurna."
+  },
+  {
+    "nama": "Soto Madura",
+    "kategori": "Makanan Berkuah",
+    "porsi": "2 porsi",
+    "waktu_masak": "15 menit",
+    "tingkat_kesulitan": "Sedang",
+    "bahan": [
+      "Bahan utama untuk Soto Madura",
+      "Bumbu dasar: bawang merah, bawang putih, cabai",
+      "Rempah-rempah sesuai kebutuhan",
+      "Garam dan gula secukupnya",
+      "Minyak goreng untuk menumis"
+    ],
+    "langkah": [
+      "Siapkan semua bahan dan bumbu",
+      "Haluskan bumbu yang perlu dihaluskan",
+      "Tumis bumbu hingga harum untuk Soto Madura",
+      "Masukkan bahan utama, masak hingga matang",
+      "Tambahkan garam dan gula, koreksi rasa",
+      "Masak hingga bumbu meresap sempurna",
+      "Angkat dan sajikan hangat"
+    ],
+    "tips": "Untuk hasil terbaik Soto Madura, gunakan bahan segar dan bumbu berkualitas. Masak dengan api sedang agar bumbu meresap sempurna."
+  },
+  {
+    "nama": "Soto Betawi",
+    "kategori": "Makanan Berkuah",
+    "porsi": "3 porsi",
+    "waktu_masak": "20 menit",
+    "tingkat_kesulitan": "Sulit",
+    "bahan": [
+      "Bahan utama untuk Soto Betawi",
+      "Bumbu dasar: bawang merah, bawang putih, cabai",
+      "Rempah-rempah sesuai kebutuhan",
+      "Garam dan gula secukupnya",
+      "Minyak goreng untuk menumis"
+    ],
+    "langkah": [
+      "Siapkan semua bahan dan bumbu",
+      "Haluskan bumbu yang perlu dihaluskan",
+      "Tumis bumbu hingga harum untuk Soto Betawi",
+      "Masukkan bahan utama, masak hingga matang",
+      "Tambahkan garam dan gula, koreksi rasa",
+      "Masak hingga bumbu meresap sempurna",
+      "Angkat dan sajikan hangat"
+    ],
+    "tips": "Untuk hasil terbaik Soto Betawi, gunakan bahan segar dan bumbu berkualitas. Masak dengan api sedang agar bumbu meresap sempurna."
+  },
+  {
+    "nama": "Soto Banjar",
+    "kategori": "Makanan Berkuah",
+    "porsi": "4 porsi",
+    "waktu_masak": "30 menit",
+    "tingkat_kesulitan": "Mudah",
+    "bahan": [
+      "Bahan utama untuk Soto Banjar",
+      "Bumbu dasar: bawang merah, bawang putih, cabai",
+      "Rempah-rempah sesuai kebutuhan",
+      "Garam dan gula secukupnya",
+      "Minyak goreng untuk menumis"
+    ],
+    "langkah": [
+      "Siapkan semua bahan dan bumbu",
+      "Haluskan bumbu yang perlu dihaluskan",
+      "Tumis bumbu hingga harum untuk Soto Banjar",
+      "Masukkan bahan utama, masak hingga matang",
+      "Tambahkan garam dan gula, koreksi rasa",
+      "Masak hingga bumbu meresap sempurna",
+      "Angkat dan sajikan hangat"
+    ],
+    "tips": "Untuk hasil terbaik Soto Banjar, gunakan bahan segar dan bumbu berkualitas. Masak dengan api sedang agar bumbu meresap sempurna."
+  },
+  {
+    "nama": "Coto Makassar",
+    "kategori": "Makanan Berkuah",
+    "porsi": "5 porsi",
+    "waktu_masak": "45 menit",
+    "tingkat_kesulitan": "Sedang",
+    "bahan": [
+      "Bahan utama untuk Coto Makassar",
+      "Bumbu dasar: bawang merah, bawang putih, cabai",
+      "Rempah-rempah sesuai kebutuhan",
+      "Garam dan gula secukupnya",
+      "Minyak goreng untuk menumis"
+    ],
+    "langkah": [
+      "Siapkan semua bahan dan bumbu",
+      "Haluskan bumbu yang perlu dihaluskan",
+      "Tumis bumbu hingga harum untuk Coto Makassar",
+      "Masukkan bahan utama, masak hingga matang",
+      "Tambahkan garam dan gula, koreksi rasa",
+      "Masak hingga bumbu meresap sempurna",
+      "Angkat dan sajikan hangat"
+    ],
+    "tips": "Untuk hasil terbaik Coto Makassar, gunakan bahan segar dan bumbu berkualitas. Masak dengan api sedang agar bumbu meresap sempurna."
+  },
+  {
+    "nama": "Konro Bakar",
+    "kategori": "Makanan Utama",
+    "porsi": "6 porsi",
+    "waktu_masak": "1 jam",
+    "tingkat_kesulitan": "Sulit",
+    "bahan": [
+      "Bahan utama untuk Konro Bakar",
+      "Bumbu dasar: bawang merah, bawang putih, cabai",
+      "Rempah-rempah sesuai kebutuhan",
+      "Garam dan gula secukupnya",
+      "Minyak goreng untuk menumis"
+    ],
+    "langkah": [
+      "Siapkan semua bahan dan bumbu",
+      "Haluskan bumbu yang perlu dihaluskan",
+      "Tumis bumbu hingga harum untuk Konro Bakar",
+      "Masukkan bahan utama, masak hingga matang",
+      "Tambahkan garam dan gula, koreksi rasa",
+      "Masak hingga bumbu meresap sempurna",
+      "Angkat dan sajikan hangat"
+    ],
+    "tips": "Untuk hasil terbaik Konro Bakar, gunakan bahan segar dan bumbu berkualitas. Masak dengan api sedang agar bumbu meresap sempurna."
+  },
+  {
+    "nama": "Ayam Bakar Taliwang",
+    "kategori": "Makanan Utama",
+    "porsi": "2 porsi",
+    "waktu_masak": "1 jam 30 menit",
+    "tingkat_kesulitan": "Mudah",
+    "bahan": [
+      "Bahan utama untuk Ayam Bakar Taliwang",
+      "Bumbu dasar: bawang merah, bawang putih, cabai",
+      "Rempah-rempah sesuai kebutuhan",
+      "Garam dan gula secukupnya",
+      "Minyak goreng untuk menumis"
+    ],
+    "langkah": [
+      "Siapkan semua bahan dan bumbu",
+      "Haluskan bumbu yang perlu dihaluskan",
+      "Tumis bumbu hingga harum untuk Ayam Bakar Taliwang",
+      "Masukkan bahan utama, masak hingga matang",
+      "Tambahkan garam dan gula, koreksi rasa",
+      "Masak hingga bumbu meresap sempurna",
+      "Angkat dan sajikan hangat"
+    ],
+    "tips": "Untuk hasil terbaik Ayam Bakar Taliwang, gunakan bahan segar dan bumbu berkualitas. Masak dengan api sedang agar bumbu meresap sempurna."
+  },
+  {
+    "nama": "Ayam Bakar Kecap",
+    "kategori": "Makanan Utama",
+    "porsi": "3 porsi",
+    "waktu_masak": "2 jam",
+    "tingkat_kesulitan": "Sedang",
+    "bahan": [
+      "Bahan utama untuk Ayam Bakar Kecap",
+      "Bumbu dasar: bawang merah, bawang putih, cabai",
+      "Rempah-rempah sesuai kebutuhan",
+      "Garam dan gula secukupnya",
+      "Minyak goreng untuk menumis"
+    ],
+    "langkah": [
+      "Siapkan semua bahan dan bumbu",
+      "Haluskan bumbu yang perlu dihaluskan",
+      "Tumis bumbu hingga harum untuk Ayam Bakar Kecap",
+      "Masukkan bahan utama, masak hingga matang",
+      "Tambahkan garam dan gula, koreksi rasa",
+      "Masak hingga bumbu meresap sempurna",
+      "Angkat dan sajikan hangat"
+    ],
+    "tips": "Untuk hasil terbaik Ayam Bakar Kecap, gunakan bahan segar dan bumbu berkualitas. Masak dengan api sedang agar bumbu meresap sempurna."
+  },
+  {
+    "nama": "Ayam Goreng Kremes",
+    "kategori": "Makanan Utama",
+    "porsi": "4 porsi",
+    "waktu_masak": "3 jam",
+    "tingkat_kesulitan": "Sulit",
+    "bahan": [
+      "Bahan utama untuk Ayam Goreng Kremes",
+      "Bumbu dasar: bawang merah, bawang putih, cabai",
+      "Rempah-rempah sesuai kebutuhan",
+      "Garam dan gula secukupnya",
+      "Minyak goreng untuk menumis"
+    ],
+    "langkah": [
+      "Siapkan semua bahan dan bumbu",
+      "Haluskan bumbu yang perlu dihaluskan",
+      "Tumis bumbu hingga harum untuk Ayam Goreng Kremes",
+      "Masukkan bahan utama, masak hingga matang",
+      "Tambahkan garam dan gula, koreksi rasa",
+      "Masak hingga bumbu meresap sempurna",
+      "Angkat dan sajikan hangat"
+    ],
+    "tips": "Untuk hasil terbaik Ayam Goreng Kremes, gunakan bahan segar dan bumbu berkualitas. Masak dengan api sedang agar bumbu meresap sempurna."
+  },
+  {
+    "nama": "Ayam Penyet",
+    "kategori": "Makanan Utama",
+    "porsi": "5 porsi",
+    "waktu_masak": "15 menit",
+    "tingkat_kesulitan": "Mudah",
+    "bahan": [
+      "Bahan utama untuk Ayam Penyet",
+      "Bumbu dasar: bawang merah, bawang putih, cabai",
+      "Rempah-rempah sesuai kebutuhan",
+      "Garam dan gula secukupnya",
+      "Minyak goreng untuk menumis"
+    ],
+    "langkah": [
+      "Siapkan semua bahan dan bumbu",
+      "Haluskan bumbu yang perlu dihaluskan",
+      "Tumis bumbu hingga harum untuk Ayam Penyet",
+      "Masukkan bahan utama, masak hingga matang",
+      "Tambahkan garam dan gula, koreksi rasa",
+      "Masak hingga bumbu meresap sempurna",
+      "Angkat dan sajikan hangat"
+    ],
+    "tips": "Untuk hasil terbaik Ayam Penyet, gunakan bahan segar dan bumbu berkualitas. Masak dengan api sedang agar bumbu meresap sempurna."
+  },
+  {
+    "nama": "Ayam Rica-Rica",
+    "kategori": "Makanan Utama",
+    "porsi": "6 porsi",
+    "waktu_masak": "20 menit",
+    "tingkat_kesulitan": "Sedang",
+    "bahan": [
+      "Bahan utama untuk Ayam Rica-Rica",
+      "Bumbu dasar: bawang merah, bawang putih, cabai",
+      "Rempah-rempah sesuai kebutuhan",
+      "Garam dan gula secukupnya",
+      "Minyak goreng untuk menumis"
+    ],
+    "langkah": [
+      "Siapkan semua bahan dan bumbu",
+      "Haluskan bumbu yang perlu dihaluskan",
+      "Tumis bumbu hingga harum untuk Ayam Rica-Rica",
+      "Masukkan bahan utama, masak hingga matang",
+      "Tambahkan garam dan gula, koreksi rasa",
+      "Masak hingga bumbu meresap sempurna",
+      "Angkat dan sajikan hangat"
+    ],
+    "tips": "Untuk hasil terbaik Ayam Rica-Rica, gunakan bahan segar dan bumbu berkualitas. Masak dengan api sedang agar bumbu meresap sempurna."
+  },
+  {
+    "nama": "Ayam Woku",
+    "kategori": "Makanan Utama",
+    "porsi": "2 porsi",
+    "waktu_masak": "30 menit",
+    "tingkat_kesulitan": "Sulit",
+    "bahan": [
+      "Bahan utama untuk Ayam Woku",
+      "Bumbu dasar: bawang merah, bawang putih, cabai",
+      "Rempah-rempah sesuai kebutuhan",
+      "Garam dan gula secukupnya",
+      "Minyak goreng untuk menumis"
+    ],
+    "langkah": [
+      "Siapkan semua bahan dan bumbu",
+      "Haluskan bumbu yang perlu dihaluskan",
+      "Tumis bumbu hingga harum untuk Ayam Woku",
+      "Masukkan bahan utama, masak hingga matang",
+      "Tambahkan garam dan gula, koreksi rasa",
+      "Masak hingga bumbu meresap sempurna",
+      "Angkat dan sajikan hangat"
+    ],
+    "tips": "Untuk hasil terbaik Ayam Woku, gunakan bahan segar dan bumbu berkualitas. Masak dengan api sedang agar bumbu meresap sempurna."
+  },
+  {
+    "nama": "Ikan Bakar Sambal Dabu",
+    "kategori": "Makanan Utama",
+    "porsi": "3 porsi",
+    "waktu_masak": "45 menit",
+    "tingkat_kesulitan": "Mudah",
+    "bahan": [
+      "Bahan utama untuk Ikan Bakar Sambal Dabu",
+      "Bumbu dasar: bawang merah, bawang putih, cabai",
+      "Rempah-rempah sesuai kebutuhan",
+      "Garam dan gula secukupnya",
+      "Minyak goreng untuk menumis"
+    ],
+    "langkah": [
+      "Siapkan semua bahan dan bumbu",
+      "Haluskan bumbu yang perlu dihaluskan",
+      "Tumis bumbu hingga harum untuk Ikan Bakar Sambal Dabu",
+      "Masukkan bahan utama, masak hingga matang",
+      "Tambahkan garam dan gula, koreksi rasa",
+      "Masak hingga bumbu meresap sempurna",
+      "Angkat dan sajikan hangat"
+    ],
+    "tips": "Untuk hasil terbaik Ikan Bakar Sambal Dabu, gunakan bahan segar dan bumbu berkualitas. Masak dengan api sedang agar bumbu meresap sempurna."
+  },
+  {
+    "nama": "Ikan Goreng Sambal Mangga",
+    "kategori": "Makanan Utama",
+    "porsi": "4 porsi",
+    "waktu_masak": "1 jam",
+    "tingkat_kesulitan": "Sedang",
+    "bahan": [
+      "Bahan utama untuk Ikan Goreng Sambal Mangga",
+      "Bumbu dasar: bawang merah, bawang putih, cabai",
+      "Rempah-rempah sesuai kebutuhan",
+      "Garam dan gula secukupnya",
+      "Minyak goreng untuk menumis"
+    ],
+    "langkah": [
+      "Siapkan semua bahan dan bumbu",
+      "Haluskan bumbu yang perlu dihaluskan",
+      "Tumis bumbu hingga harum untuk Ikan Goreng Sambal Mangga",
+      "Masukkan bahan utama, masak hingga matang",
+      "Tambahkan garam dan gula, koreksi rasa",
+      "Masak hingga bumbu meresap sempurna",
+      "Angkat dan sajikan hangat"
+    ],
+    "tips": "Untuk hasil terbaik Ikan Goreng Sambal Mangga, gunakan bahan segar dan bumbu berkualitas. Masak dengan api sedang agar bumbu meresap sempurna."
+  },
+  {
+    "nama": "Pepes Tahu",
+    "kategori": "Makanan Utama",
+    "porsi": "5 porsi",
+    "waktu_masak": "1 jam 30 menit",
+    "tingkat_kesulitan": "Sulit",
+    "bahan": [
+      "Bahan utama untuk Pepes Tahu",
+      "Bumbu dasar: bawang merah, bawang putih, cabai",
+      "Rempah-rempah sesuai kebutuhan",
+      "Garam dan gula secukupnya",
+      "Minyak goreng untuk menumis"
+    ],
+    "langkah": [
+      "Siapkan semua bahan dan bumbu",
+      "Haluskan bumbu yang perlu dihaluskan",
+      "Tumis bumbu hingga harum untuk Pepes Tahu",
+      "Masukkan bahan utama, masak hingga matang",
+      "Tambahkan garam dan gula, koreksi rasa",
+      "Masak hingga bumbu meresap sempurna",
+      "Angkat dan sajikan hangat"
+    ],
+    "tips": "Untuk hasil terbaik Pepes Tahu, gunakan bahan segar dan bumbu berkualitas. Masak dengan api sedang agar bumbu meresap sempurna."
+  },
+  {
+    "nama": "Pepes Tempe",
+    "kategori": "Makanan Utama",
+    "porsi": "6 porsi",
+    "waktu_masak": "2 jam",
+    "tingkat_kesulitan": "Mudah",
+    "bahan": [
+      "Bahan utama untuk Pepes Tempe",
+      "Bumbu dasar: bawang merah, bawang putih, cabai",
+      "Rempah-rempah sesuai kebutuhan",
+      "Garam dan gula secukupnya",
+      "Minyak goreng untuk menumis"
+    ],
+    "langkah": [
+      "Siapkan semua bahan dan bumbu",
+      "Haluskan bumbu yang perlu dihaluskan",
+      "Tumis bumbu hingga harum untuk Pepes Tempe",
+      "Masukkan bahan utama, masak hingga matang",
+      "Tambahkan garam dan gula, koreksi rasa",
+      "Masak hingga bumbu meresap sempurna",
+      "Angkat dan sajikan hangat"
+    ],
+    "tips": "Untuk hasil terbaik Pepes Tempe, gunakan bahan segar dan bumbu berkualitas. Masak dengan api sedang agar bumbu meresap sempurna."
+  },
+  {
+    "nama": "Pecel Lele",
+    "kategori": "Makanan Utama",
+    "porsi": "2 porsi",
+    "waktu_masak": "3 jam",
+    "tingkat_kesulitan": "Sedang",
+    "bahan": [
+      "Bahan utama untuk Pecel Lele",
+      "Bumbu dasar: bawang merah, bawang putih, cabai",
+      "Rempah-rempah sesuai kebutuhan",
+      "Garam dan gula secukupnya",
+      "Minyak goreng untuk menumis"
+    ],
+    "langkah": [
+      "Siapkan semua bahan dan bumbu",
+      "Haluskan bumbu yang perlu dihaluskan",
+      "Tumis bumbu hingga harum untuk Pecel Lele",
+      "Masukkan bahan utama, masak hingga matang",
+      "Tambahkan garam dan gula, koreksi rasa",
+      "Masak hingga bumbu meresap sempurna",
+      "Angkat dan sajikan hangat"
+    ],
+    "tips": "Untuk hasil terbaik Pecel Lele, gunakan bahan segar dan bumbu berkualitas. Masak dengan api sedang agar bumbu meresap sempurna."
+  },
+  {
+    "nama": "Gurame Asam Manis",
+    "kategori": "Makanan Utama",
+    "porsi": "3 porsi",
+    "waktu_masak": "15 menit",
+    "tingkat_kesulitan": "Sulit",
+    "bahan": [
+      "Bahan utama untuk Gurame Asam Manis",
+      "Bumbu dasar: bawang merah, bawang putih, cabai",
+      "Rempah-rempah sesuai kebutuhan",
+      "Garam dan gula secukupnya",
+      "Minyak goreng untuk menumis"
+    ],
+    "langkah": [
+      "Siapkan semua bahan dan bumbu",
+      "Haluskan bumbu yang perlu dihaluskan",
+      "Tumis bumbu hingga harum untuk Gurame Asam Manis",
+      "Masukkan bahan utama, masak hingga matang",
+      "Tambahkan garam dan gula, koreksi rasa",
+      "Masak hingga bumbu meresap sempurna",
+      "Angkat dan sajikan hangat"
+    ],
+    "tips": "Untuk hasil terbaik Gurame Asam Manis, gunakan bahan segar dan bumbu berkualitas. Masak dengan api sedang agar bumbu meresap sempurna."
+  },
+  {
+    "nama": "Tongseng Kambing",
+    "kategori": "Makanan Berkuah",
+    "porsi": "4 porsi",
+    "waktu_masak": "20 menit",
+    "tingkat_kesulitan": "Mudah",
+    "bahan": [
+      "Bahan utama untuk Tongseng Kambing",
+      "Bumbu dasar: bawang merah, bawang putih, cabai",
+      "Rempah-rempah sesuai kebutuhan",
+      "Garam dan gula secukupnya",
+      "Minyak goreng untuk menumis"
+    ],
+    "langkah": [
+      "Siapkan semua bahan dan bumbu",
+      "Haluskan bumbu yang perlu dihaluskan",
+      "Tumis bumbu hingga harum untuk Tongseng Kambing",
+      "Masukkan bahan utama, masak hingga matang",
+      "Tambahkan garam dan gula, koreksi rasa",
+      "Masak hingga bumbu meresap sempurna",
+      "Angkat dan sajikan hangat"
+    ],
+    "tips": "Untuk hasil terbaik Tongseng Kambing, gunakan bahan segar dan bumbu berkualitas. Masak dengan api sedang agar bumbu meresap sempurna."
+  },
+  {
+    "nama": "Tongseng Sapi",
+    "kategori": "Makanan Berkuah",
+    "porsi": "5 porsi",
+    "waktu_masak": "30 menit",
+    "tingkat_kesulitan": "Sedang",
+    "bahan": [
+      "Bahan utama untuk Tongseng Sapi",
+      "Bumbu dasar: bawang merah, bawang putih, cabai",
+      "Rempah-rempah sesuai kebutuhan",
+      "Garam dan gula secukupnya",
+      "Minyak goreng untuk menumis"
+    ],
+    "langkah": [
+      "Siapkan semua bahan dan bumbu",
+      "Haluskan bumbu yang perlu dihaluskan",
+      "Tumis bumbu hingga harum untuk Tongseng Sapi",
+      "Masukkan bahan utama, masak hingga matang",
+      "Tambahkan garam dan gula, koreksi rasa",
+      "Masak hingga bumbu meresap sempurna",
+      "Angkat dan sajikan hangat"
+    ],
+    "tips": "Untuk hasil terbaik Tongseng Sapi, gunakan bahan segar dan bumbu berkualitas. Masak dengan api sedang agar bumbu meresap sempurna."
+  },
+  {
+    "nama": "Sop Iga Sapi",
+    "kategori": "Makanan Berkuah",
+    "porsi": "6 porsi",
+    "waktu_masak": "45 menit",
+    "tingkat_kesulitan": "Sulit",
+    "bahan": [
+      "Bahan utama untuk Sop Iga Sapi",
+      "Bumbu dasar: bawang merah, bawang putih, cabai",
+      "Rempah-rempah sesuai kebutuhan",
+      "Garam dan gula secukupnya",
+      "Minyak goreng untuk menumis"
+    ],
+    "langkah": [
+      "Siapkan semua bahan dan bumbu",
+      "Haluskan bumbu yang perlu dihaluskan",
+      "Tumis bumbu hingga harum untuk Sop Iga Sapi",
+      "Masukkan bahan utama, masak hingga matang",
+      "Tambahkan garam dan gula, koreksi rasa",
+      "Masak hingga bumbu meresap sempurna",
+      "Angkat dan sajikan hangat"
+    ],
+    "tips": "Untuk hasil terbaik Sop Iga Sapi, gunakan bahan segar dan bumbu berkualitas. Masak dengan api sedang agar bumbu meresap sempurna."
+  },
+  {
+    "nama": "Sop Ayam",
+    "kategori": "Makanan Berkuah",
+    "porsi": "2 porsi",
+    "waktu_masak": "1 jam",
+    "tingkat_kesulitan": "Mudah",
+    "bahan": [
+      "Bahan utama untuk Sop Ayam",
+      "Bumbu dasar: bawang merah, bawang putih, cabai",
+      "Rempah-rempah sesuai kebutuhan",
+      "Garam dan gula secukupnya",
+      "Minyak goreng untuk menumis"
+    ],
+    "langkah": [
+      "Siapkan semua bahan dan bumbu",
+      "Haluskan bumbu yang perlu dihaluskan",
+      "Tumis bumbu hingga harum untuk Sop Ayam",
+      "Masukkan bahan utama, masak hingga matang",
+      "Tambahkan garam dan gula, koreksi rasa",
+      "Masak hingga bumbu meresap sempurna",
+      "Angkat dan sajikan hangat"
+    ],
+    "tips": "Untuk hasil terbaik Sop Ayam, gunakan bahan segar dan bumbu berkualitas. Masak dengan api sedang agar bumbu meresap sempurna."
+  },
+  {
+    "nama": "Sup Kimlo",
+    "kategori": "Makanan Berkuah",
+    "porsi": "3 porsi",
+    "waktu_masak": "1 jam 30 menit",
+    "tingkat_kesulitan": "Sedang",
+    "bahan": [
+      "Bahan utama untuk Sup Kimlo",
+      "Bumbu dasar: bawang merah, bawang putih, cabai",
+      "Rempah-rempah sesuai kebutuhan",
+      "Garam dan gula secukupnya",
+      "Minyak goreng untuk menumis"
+    ],
+    "langkah": [
+      "Siapkan semua bahan dan bumbu",
+      "Haluskan bumbu yang perlu dihaluskan",
+      "Tumis bumbu hingga harum untuk Sup Kimlo",
+      "Masukkan bahan utama, masak hingga matang",
+      "Tambahkan garam dan gula, koreksi rasa",
+      "Masak hingga bumbu meresap sempurna",
+      "Angkat dan sajikan hangat"
+    ],
+    "tips": "Untuk hasil terbaik Sup Kimlo, gunakan bahan segar dan bumbu berkualitas. Masak dengan api sedang agar bumbu meresap sempurna."
+  },
+  {
+    "nama": "Tekwan Palembang",
+    "kategori": "Makanan Berkuah",
+    "porsi": "4 porsi",
+    "waktu_masak": "2 jam",
+    "tingkat_kesulitan": "Sulit",
+    "bahan": [
+      "Bahan utama untuk Tekwan Palembang",
+      "Bumbu dasar: bawang merah, bawang putih, cabai",
+      "Rempah-rempah sesuai kebutuhan",
+      "Garam dan gula secukupnya",
+      "Minyak goreng untuk menumis"
+    ],
+    "langkah": [
+      "Siapkan semua bahan dan bumbu",
+      "Haluskan bumbu yang perlu dihaluskan",
+      "Tumis bumbu hingga harum untuk Tekwan Palembang",
+      "Masukkan bahan utama, masak hingga matang",
+      "Tambahkan garam dan gula, koreksi rasa",
+      "Masak hingga bumbu meresap sempurna",
+      "Angkat dan sajikan hangat"
+    ],
+    "tips": "Untuk hasil terbaik Tekwan Palembang, gunakan bahan segar dan bumbu berkualitas. Masak dengan api sedang agar bumbu meresap sempurna."
+  },
+  {
+    "nama": "Pindang Ikan Patin",
+    "kategori": "Makanan Berkuah",
+    "porsi": "5 porsi",
+    "waktu_masak": "3 jam",
+    "tingkat_kesulitan": "Mudah",
+    "bahan": [
+      "Bahan utama untuk Pindang Ikan Patin",
+      "Bumbu dasar: bawang merah, bawang putih, cabai",
+      "Rempah-rempah sesuai kebutuhan",
+      "Garam dan gula secukupnya",
+      "Minyak goreng untuk menumis"
+    ],
+    "langkah": [
+      "Siapkan semua bahan dan bumbu",
+      "Haluskan bumbu yang perlu dihaluskan",
+      "Tumis bumbu hingga harum untuk Pindang Ikan Patin",
+      "Masukkan bahan utama, masak hingga matang",
+      "Tambahkan garam dan gula, koreksi rasa",
+      "Masak hingga bumbu meresap sempurna",
+      "Angkat dan sajikan hangat"
+    ],
+    "tips": "Untuk hasil terbaik Pindang Ikan Patin, gunakan bahan segar dan bumbu berkualitas. Masak dengan api sedang agar bumbu meresap sempurna."
+  },
+  {
+    "nama": "Arsik Ikan Mas",
+    "kategori": "Makanan Berkuah",
+    "porsi": "6 porsi",
+    "waktu_masak": "15 menit",
+    "tingkat_kesulitan": "Sedang",
+    "bahan": [
+      "Bahan utama untuk Arsik Ikan Mas",
+      "Bumbu dasar: bawang merah, bawang putih, cabai",
+      "Rempah-rempah sesuai kebutuhan",
+      "Garam dan gula secukupnya",
+      "Minyak goreng untuk menumis"
+    ],
+    "langkah": [
+      "Siapkan semua bahan dan bumbu",
+      "Haluskan bumbu yang perlu dihaluskan",
+      "Tumis bumbu hingga harum untuk Arsik Ikan Mas",
+      "Masukkan bahan utama, masak hingga matang",
+      "Tambahkan garam dan gula, koreksi rasa",
+      "Masak hingga bumbu meresap sempurna",
+      "Angkat dan sajikan hangat"
+    ],
+    "tips": "Untuk hasil terbaik Arsik Ikan Mas, gunakan bahan segar dan bumbu berkualitas. Masak dengan api sedang agar bumbu meresap sempurna."
+  },
+  {
+    "nama": "Semur Daging Sapi",
+    "kategori": "Makanan Utama",
+    "porsi": "2 porsi",
+    "waktu_masak": "20 menit",
+    "tingkat_kesulitan": "Sulit",
+    "bahan": [
+      "Bahan utama untuk Semur Daging Sapi",
+      "Bumbu dasar: bawang merah, bawang putih, cabai",
+      "Rempah-rempah sesuai kebutuhan",
+      "Garam dan gula secukupnya",
+      "Minyak goreng untuk menumis"
+    ],
+    "langkah": [
+      "Siapkan semua bahan dan bumbu",
+      "Haluskan bumbu yang perlu dihaluskan",
+      "Tumis bumbu hingga harum untuk Semur Daging Sapi",
+      "Masukkan bahan utama, masak hingga matang",
+      "Tambahkan garam dan gula, koreksi rasa",
+      "Masak hingga bumbu meresap sempurna",
+      "Angkat dan sajikan hangat"
+    ],
+    "tips": "Untuk hasil terbaik Semur Daging Sapi, gunakan bahan segar dan bumbu berkualitas. Masak dengan api sedang agar bumbu meresap sempurna."
+  },
+  {
+    "nama": "Semur Ayam",
+    "kategori": "Makanan Utama",
+    "porsi": "3 porsi",
+    "waktu_masak": "30 menit",
+    "tingkat_kesulitan": "Mudah",
+    "bahan": [
+      "Bahan utama untuk Semur Ayam",
+      "Bumbu dasar: bawang merah, bawang putih, cabai",
+      "Rempah-rempah sesuai kebutuhan",
+      "Garam dan gula secukupnya",
+      "Minyak goreng untuk menumis"
+    ],
+    "langkah": [
+      "Siapkan semua bahan dan bumbu",
+      "Haluskan bumbu yang perlu dihaluskan",
+      "Tumis bumbu hingga harum untuk Semur Ayam",
+      "Masukkan bahan utama, masak hingga matang",
+      "Tambahkan garam dan gula, koreksi rasa",
+      "Masak hingga bumbu meresap sempurna",
+      "Angkat dan sajikan hangat"
+    ],
+    "tips": "Untuk hasil terbaik Semur Ayam, gunakan bahan segar dan bumbu berkualitas. Masak dengan api sedang agar bumbu meresap sempurna."
+  },
+  {
+    "nama": "Bistik Daging Sapi",
+    "kategori": "Makanan Utama",
+    "porsi": "4 porsi",
+    "waktu_masak": "45 menit",
+    "tingkat_kesulitan": "Sedang",
+    "bahan": [
+      "Bahan utama untuk Bistik Daging Sapi",
+      "Bumbu dasar: bawang merah, bawang putih, cabai",
+      "Rempah-rempah sesuai kebutuhan",
+      "Garam dan gula secukupnya",
+      "Minyak goreng untuk menumis"
+    ],
+    "langkah": [
+      "Siapkan semua bahan dan bumbu",
+      "Haluskan bumbu yang perlu dihaluskan",
+      "Tumis bumbu hingga harum untuk Bistik Daging Sapi",
+      "Masukkan bahan utama, masak hingga matang",
+      "Tambahkan garam dan gula, koreksi rasa",
+      "Masak hingga bumbu meresap sempurna",
+      "Angkat dan sajikan hangat"
+    ],
+    "tips": "Untuk hasil terbaik Bistik Daging Sapi, gunakan bahan segar dan bumbu berkualitas. Masak dengan api sedang agar bumbu meresap sempurna."
+  },
+  {
+    "nama": "Empal Gepuk",
+    "kategori": "Makanan Utama",
+    "porsi": "5 porsi",
+    "waktu_masak": "1 jam",
+    "tingkat_kesulitan": "Sulit",
+    "bahan": [
+      "Bahan utama untuk Empal Gepuk",
+      "Bumbu dasar: bawang merah, bawang putih, cabai",
+      "Rempah-rempah sesuai kebutuhan",
+      "Garam dan gula secukupnya",
+      "Minyak goreng untuk menumis"
+    ],
+    "langkah": [
+      "Siapkan semua bahan dan bumbu",
+      "Haluskan bumbu yang perlu dihaluskan",
+      "Tumis bumbu hingga harum untuk Empal Gepuk",
+      "Masukkan bahan utama, masak hingga matang",
+      "Tambahkan garam dan gula, koreksi rasa",
+      "Masak hingga bumbu meresap sempurna",
+      "Angkat dan sajikan hangat"
+    ],
+    "tips": "Untuk hasil terbaik Empal Gepuk, gunakan bahan segar dan bumbu berkualitas. Masak dengan api sedang agar bumbu meresap sempurna."
+  },
+  {
+    "nama": "Dendeng Balado",
+    "kategori": "Makanan Utama",
+    "porsi": "6 porsi",
+    "waktu_masak": "1 jam 30 menit",
+    "tingkat_kesulitan": "Mudah",
+    "bahan": [
+      "Bahan utama untuk Dendeng Balado",
+      "Bumbu dasar: bawang merah, bawang putih, cabai",
+      "Rempah-rempah sesuai kebutuhan",
+      "Garam dan gula secukupnya",
+      "Minyak goreng untuk menumis"
+    ],
+    "langkah": [
+      "Siapkan semua bahan dan bumbu",
+      "Haluskan bumbu yang perlu dihaluskan",
+      "Tumis bumbu hingga harum untuk Dendeng Balado",
+      "Masukkan bahan utama, masak hingga matang",
+      "Tambahkan garam dan gula, koreksi rasa",
+      "Masak hingga bumbu meresap sempurna",
+      "Angkat dan sajikan hangat"
+    ],
+    "tips": "Untuk hasil terbaik Dendeng Balado, gunakan bahan segar dan bumbu berkualitas. Masak dengan api sedang agar bumbu meresap sempurna."
+  },
+  {
+    "nama": "Telur Balado",
+    "kategori": "Makanan Utama",
+    "porsi": "2 porsi",
+    "waktu_masak": "2 jam",
+    "tingkat_kesulitan": "Sedang",
+    "bahan": [
+      "Bahan utama untuk Telur Balado",
+      "Bumbu dasar: bawang merah, bawang putih, cabai",
+      "Rempah-rempah sesuai kebutuhan",
+      "Garam dan gula secukupnya",
+      "Minyak goreng untuk menumis"
+    ],
+    "langkah": [
+      "Siapkan semua bahan dan bumbu",
+      "Haluskan bumbu yang perlu dihaluskan",
+      "Tumis bumbu hingga harum untuk Telur Balado",
+      "Masukkan bahan utama, masak hingga matang",
+      "Tambahkan garam dan gula, koreksi rasa",
+      "Masak hingga bumbu meresap sempurna",
+      "Angkat dan sajikan hangat"
+    ],
+    "tips": "Untuk hasil terbaik Telur Balado, gunakan bahan segar dan bumbu berkualitas. Masak dengan api sedang agar bumbu meresap sempurna."
+  },
+  {
+    "nama": "Telur Bumbu Rujak",
+    "kategori": "Makanan Utama",
+    "porsi": "3 porsi",
+    "waktu_masak": "3 jam",
+    "tingkat_kesulitan": "Sulit",
+    "bahan": [
+      "Bahan utama untuk Telur Bumbu Rujak",
+      "Bumbu dasar: bawang merah, bawang putih, cabai",
+      "Rempah-rempah sesuai kebutuhan",
+      "Garam dan gula secukupnya",
+      "Minyak goreng untuk menumis"
+    ],
+    "langkah": [
+      "Siapkan semua bahan dan bumbu",
+      "Haluskan bumbu yang perlu dihaluskan",
+      "Tumis bumbu hingga harum untuk Telur Bumbu Rujak",
+      "Masukkan bahan utama, masak hingga matang",
+      "Tambahkan garam dan gula, koreksi rasa",
+      "Masak hingga bumbu meresap sempurna",
+      "Angkat dan sajikan hangat"
+    ],
+    "tips": "Untuk hasil terbaik Telur Bumbu Rujak, gunakan bahan segar dan bumbu berkualitas. Masak dengan api sedang agar bumbu meresap sempurna."
+  },
+  {
+    "nama": "Sambal Goreng Ati",
+    "kategori": "Makanan Utama",
+    "porsi": "4 porsi",
+    "waktu_masak": "15 menit",
+    "tingkat_kesulitan": "Mudah",
+    "bahan": [
+      "Bahan utama untuk Sambal Goreng Ati",
+      "Bumbu dasar: bawang merah, bawang putih, cabai",
+      "Rempah-rempah sesuai kebutuhan",
+      "Garam dan gula secukupnya",
+      "Minyak goreng untuk menumis"
+    ],
+    "langkah": [
+      "Siapkan semua bahan dan bumbu",
+      "Haluskan bumbu yang perlu dihaluskan",
+      "Tumis bumbu hingga harum untuk Sambal Goreng Ati",
+      "Masukkan bahan utama, masak hingga matang",
+      "Tambahkan garam dan gula, koreksi rasa",
+      "Masak hingga bumbu meresap sempurna",
+      "Angkat dan sajikan hangat"
+    ],
+    "tips": "Untuk hasil terbaik Sambal Goreng Ati, gunakan bahan segar dan bumbu berkualitas. Masak dengan api sedang agar bumbu meresap sempurna."
+  },
+  {
+    "nama": "Perkedel Kentang",
+    "kategori": "Makanan Ringan",
+    "porsi": "5 porsi",
+    "waktu_masak": "20 menit",
+    "tingkat_kesulitan": "Sedang",
+    "bahan": [
+      "Bahan utama untuk Perkedel Kentang",
+      "Bumbu dasar: bawang merah, bawang putih, cabai",
+      "Rempah-rempah sesuai kebutuhan",
+      "Garam dan gula secukupnya",
+      "Minyak goreng untuk menumis"
+    ],
+    "langkah": [
+      "Siapkan semua bahan dan bumbu",
+      "Haluskan bumbu yang perlu dihaluskan",
+      "Tumis bumbu hingga harum untuk Perkedel Kentang",
+      "Masukkan bahan utama, masak hingga matang",
+      "Tambahkan garam dan gula, koreksi rasa",
+      "Masak hingga bumbu meresap sempurna",
+      "Angkat dan sajikan hangat"
+    ],
+    "tips": "Untuk hasil terbaik Perkedel Kentang, gunakan bahan segar dan bumbu berkualitas. Masak dengan api sedang agar bumbu meresap sempurna."
+  },
+  {
+    "nama": "Perkedel Jagung",
+    "kategori": "Makanan Ringan",
+    "porsi": "6 porsi",
+    "waktu_masak": "30 menit",
+    "tingkat_kesulitan": "Sulit",
+    "bahan": [
+      "Bahan utama untuk Perkedel Jagung",
+      "Bumbu dasar: bawang merah, bawang putih, cabai",
+      "Rempah-rempah sesuai kebutuhan",
+      "Garam dan gula secukupnya",
+      "Minyak goreng untuk menumis"
+    ],
+    "langkah": [
+      "Siapkan semua bahan dan bumbu",
+      "Haluskan bumbu yang perlu dihaluskan",
+      "Tumis bumbu hingga harum untuk Perkedel Jagung",
+      "Masukkan bahan utama, masak hingga matang",
+      "Tambahkan garam dan gula, koreksi rasa",
+      "Masak hingga bumbu meresap sempurna",
+      "Angkat dan sajikan hangat"
+    ],
+    "tips": "Untuk hasil terbaik Perkedel Jagung, gunakan bahan segar dan bumbu berkualitas. Masak dengan api sedang agar bumbu meresap sempurna."
+  },
+  {
+    "nama": "Tahu Isi",
+    "kategori": "Makanan Ringan",
+    "porsi": "2 porsi",
+    "waktu_masak": "45 menit",
+    "tingkat_kesulitan": "Mudah",
+    "bahan": [
+      "Bahan utama untuk Tahu Isi",
+      "Bumbu dasar: bawang merah, bawang putih, cabai",
+      "Rempah-rempah sesuai kebutuhan",
+      "Garam dan gula secukupnya",
+      "Minyak goreng untuk menumis"
+    ],
+    "langkah": [
+      "Siapkan semua bahan dan bumbu",
+      "Haluskan bumbu yang perlu dihaluskan",
+      "Tumis bumbu hingga harum untuk Tahu Isi",
+      "Masukkan bahan utama, masak hingga matang",
+      "Tambahkan garam dan gula, koreksi rasa",
+      "Masak hingga bumbu meresap sempurna",
+      "Angkat dan sajikan hangat"
+    ],
+    "tips": "Untuk hasil terbaik Tahu Isi, gunakan bahan segar dan bumbu berkualitas. Masak dengan api sedang agar bumbu meresap sempurna."
+  },
+  {
+    "nama": "Tahu Gejrot",
+    "kategori": "Makanan Ringan",
+    "porsi": "3 porsi",
+    "waktu_masak": "1 jam",
+    "tingkat_kesulitan": "Sedang",
+    "bahan": [
+      "Bahan utama untuk Tahu Gejrot",
+      "Bumbu dasar: bawang merah, bawang putih, cabai",
+      "Rempah-rempah sesuai kebutuhan",
+      "Garam dan gula secukupnya",
+      "Minyak goreng untuk menumis"
+    ],
+    "langkah": [
+      "Siapkan semua bahan dan bumbu",
+      "Haluskan bumbu yang perlu dihaluskan",
+      "Tumis bumbu hingga harum untuk Tahu Gejrot",
+      "Masukkan bahan utama, masak hingga matang",
+      "Tambahkan garam dan gula, koreksi rasa",
+      "Masak hingga bumbu meresap sempurna",
+      "Angkat dan sajikan hangat"
+    ],
+    "tips": "Untuk hasil terbaik Tahu Gejrot, gunakan bahan segar dan bumbu berkualitas. Masak dengan api sedang agar bumbu meresap sempurna."
+  },
+  {
+    "nama": "Tahu Tek",
+    "kategori": "Makanan Ringan",
+    "porsi": "4 porsi",
+    "waktu_masak": "1 jam 30 menit",
+    "tingkat_kesulitan": "Sulit",
+    "bahan": [
+      "Bahan utama untuk Tahu Tek",
+      "Bumbu dasar: bawang merah, bawang putih, cabai",
+      "Rempah-rempah sesuai kebutuhan",
+      "Garam dan gula secukupnya",
+      "Minyak goreng untuk menumis"
+    ],
+    "langkah": [
+      "Siapkan semua bahan dan bumbu",
+      "Haluskan bumbu yang perlu dihaluskan",
+      "Tumis bumbu hingga harum untuk Tahu Tek",
+      "Masukkan bahan utama, masak hingga matang",
+      "Tambahkan garam dan gula, koreksi rasa",
+      "Masak hingga bumbu meresap sempurna",
+      "Angkat dan sajikan hangat"
+    ],
+    "tips": "Untuk hasil terbaik Tahu Tek, gunakan bahan segar dan bumbu berkualitas. Masak dengan api sedang agar bumbu meresap sempurna."
+  },
+  {
+    "nama": "Tahu Gimbal",
+    "kategori": "Makanan Ringan",
+    "porsi": "5 porsi",
+    "waktu_masak": "2 jam",
+    "tingkat_kesulitan": "Mudah",
+    "bahan": [
+      "Bahan utama untuk Tahu Gimbal",
+      "Bumbu dasar: bawang merah, bawang putih, cabai",
+      "Rempah-rempah sesuai kebutuhan",
+      "Garam dan gula secukupnya",
+      "Minyak goreng untuk menumis"
+    ],
+    "langkah": [
+      "Siapkan semua bahan dan bumbu",
+      "Haluskan bumbu yang perlu dihaluskan",
+      "Tumis bumbu hingga harum untuk Tahu Gimbal",
+      "Masukkan bahan utama, masak hingga matang",
+      "Tambahkan garam dan gula, koreksi rasa",
+      "Masak hingga bumbu meresap sempurna",
+      "Angkat dan sajikan hangat"
+    ],
+    "tips": "Untuk hasil terbaik Tahu Gimbal, gunakan bahan segar dan bumbu berkualitas. Masak dengan api sedang agar bumbu meresap sempurna."
+  },
+  {
+    "nama": "Tempe Mendoan",
+    "kategori": "Makanan Ringan",
+    "porsi": "6 porsi",
+    "waktu_masak": "3 jam",
+    "tingkat_kesulitan": "Sedang",
+    "bahan": [
+      "Bahan utama untuk Tempe Mendoan",
+      "Bumbu dasar: bawang merah, bawang putih, cabai",
+      "Rempah-rempah sesuai kebutuhan",
+      "Garam dan gula secukupnya",
+      "Minyak goreng untuk menumis"
+    ],
+    "langkah": [
+      "Siapkan semua bahan dan bumbu",
+      "Haluskan bumbu yang perlu dihaluskan",
+      "Tumis bumbu hingga harum untuk Tempe Mendoan",
+      "Masukkan bahan utama, masak hingga matang",
+      "Tambahkan garam dan gula, koreksi rasa",
+      "Masak hingga bumbu meresap sempurna",
+      "Angkat dan sajikan hangat"
+    ],
+    "tips": "Untuk hasil terbaik Tempe Mendoan, gunakan bahan segar dan bumbu berkualitas. Masak dengan api sedang agar bumbu meresap sempurna."
+  },
+  {
+    "nama": "Tempe Goreng Tepung",
+    "kategori": "Makanan Ringan",
+    "porsi": "2 porsi",
+    "waktu_masak": "15 menit",
+    "tingkat_kesulitan": "Sulit",
+    "bahan": [
+      "Bahan utama untuk Tempe Goreng Tepung",
+      "Bumbu dasar: bawang merah, bawang putih, cabai",
+      "Rempah-rempah sesuai kebutuhan",
+      "Garam dan gula secukupnya",
+      "Minyak goreng untuk menumis"
+    ],
+    "langkah": [
+      "Siapkan semua bahan dan bumbu",
+      "Haluskan bumbu yang perlu dihaluskan",
+      "Tumis bumbu hingga harum untuk Tempe Goreng Tepung",
+      "Masukkan bahan utama, masak hingga matang",
+      "Tambahkan garam dan gula, koreksi rasa",
+      "Masak hingga bumbu meresap sempurna",
+      "Angkat dan sajikan hangat"
+    ],
+    "tips": "Untuk hasil terbaik Tempe Goreng Tepung, gunakan bahan segar dan bumbu berkualitas. Masak dengan api sedang agar bumbu meresap sempurna."
+  },
+  {
+    "nama": "Lumpia Semarang",
+    "kategori": "Makanan Ringan",
+    "porsi": "3 porsi",
+    "waktu_masak": "20 menit",
+    "tingkat_kesulitan": "Mudah",
+    "bahan": [
+      "Bahan utama untuk Lumpia Semarang",
+      "Bumbu dasar: bawang merah, bawang putih, cabai",
+      "Rempah-rempah sesuai kebutuhan",
+      "Garam dan gula secukupnya",
+      "Minyak goreng untuk menumis"
+    ],
+    "langkah": [
+      "Siapkan semua bahan dan bumbu",
+      "Haluskan bumbu yang perlu dihaluskan",
+      "Tumis bumbu hingga harum untuk Lumpia Semarang",
+      "Masukkan bahan utama, masak hingga matang",
+      "Tambahkan garam dan gula, koreksi rasa",
+      "Masak hingga bumbu meresap sempurna",
+      "Angkat dan sajikan hangat"
+    ],
+    "tips": "Untuk hasil terbaik Lumpia Semarang, gunakan bahan segar dan bumbu berkualitas. Masak dengan api sedang agar bumbu meresap sempurna."
+  },
+  {
+    "nama": "Risoles Mayo",
+    "kategori": "Makanan Ringan",
+    "porsi": "4 porsi",
+    "waktu_masak": "30 menit",
+    "tingkat_kesulitan": "Sedang",
+    "bahan": [
+      "Bahan utama untuk Risoles Mayo",
+      "Bumbu dasar: bawang merah, bawang putih, cabai",
+      "Rempah-rempah sesuai kebutuhan",
+      "Garam dan gula secukupnya",
+      "Minyak goreng untuk menumis"
+    ],
+    "langkah": [
+      "Siapkan semua bahan dan bumbu",
+      "Haluskan bumbu yang perlu dihaluskan",
+      "Tumis bumbu hingga harum untuk Risoles Mayo",
+      "Masukkan bahan utama, masak hingga matang",
+      "Tambahkan garam dan gula, koreksi rasa",
+      "Masak hingga bumbu meresap sempurna",
+      "Angkat dan sajikan hangat"
+    ],
+    "tips": "Untuk hasil terbaik Risoles Mayo, gunakan bahan segar dan bumbu berkualitas. Masak dengan api sedang agar bumbu meresap sempurna."
+  },
+  {
+    "nama": "Pastel Tutup",
+    "kategori": "Makanan Ringan",
+    "porsi": "5 porsi",
+    "waktu_masak": "45 menit",
+    "tingkat_kesulitan": "Sulit",
+    "bahan": [
+      "Bahan utama untuk Pastel Tutup",
+      "Bumbu dasar: bawang merah, bawang putih, cabai",
+      "Rempah-rempah sesuai kebutuhan",
+      "Garam dan gula secukupnya",
+      "Minyak goreng untuk menumis"
+    ],
+    "langkah": [
+      "Siapkan semua bahan dan bumbu",
+      "Haluskan bumbu yang perlu dihaluskan",
+      "Tumis bumbu hingga harum untuk Pastel Tutup",
+      "Masukkan bahan utama, masak hingga matang",
+      "Tambahkan garam dan gula, koreksi rasa",
+      "Masak hingga bumbu meresap sempurna",
+      "Angkat dan sajikan hangat"
+    ],
+    "tips": "Untuk hasil terbaik Pastel Tutup, gunakan bahan segar dan bumbu berkualitas. Masak dengan api sedang agar bumbu meresap sempurna."
+  },
+  {
+    "nama": "Lemper Ayam",
+    "kategori": "Makanan Ringan",
+    "porsi": "6 porsi",
+    "waktu_masak": "1 jam",
+    "tingkat_kesulitan": "Mudah",
+    "bahan": [
+      "Bahan utama untuk Lemper Ayam",
+      "Bumbu dasar: bawang merah, bawang putih, cabai",
+      "Rempah-rempah sesuai kebutuhan",
+      "Garam dan gula secukupnya",
+      "Minyak goreng untuk menumis"
+    ],
+    "langkah": [
+      "Siapkan semua bahan dan bumbu",
+      "Haluskan bumbu yang perlu dihaluskan",
+      "Tumis bumbu hingga harum untuk Lemper Ayam",
+      "Masukkan bahan utama, masak hingga matang",
+      "Tambahkan garam dan gula, koreksi rasa",
+      "Masak hingga bumbu meresap sempurna",
+      "Angkat dan sajikan hangat"
+    ],
+    "tips": "Untuk hasil terbaik Lemper Ayam, gunakan bahan segar dan bumbu berkualitas. Masak dengan api sedang agar bumbu meresap sempurna."
+  },
+  {
+    "nama": "Onde-Onde",
+    "kategori": "Makanan Ringan",
+    "porsi": "2 porsi",
+    "waktu_masak": "1 jam 30 menit",
+    "tingkat_kesulitan": "Sedang",
+    "bahan": [
+      "Bahan utama untuk Onde-Onde",
+      "Bumbu dasar: bawang merah, bawang putih, cabai",
+      "Rempah-rempah sesuai kebutuhan",
+      "Garam dan gula secukupnya",
+      "Minyak goreng untuk menumis"
+    ],
+    "langkah": [
+      "Siapkan semua bahan dan bumbu",
+      "Haluskan bumbu yang perlu dihaluskan",
+      "Tumis bumbu hingga harum untuk Onde-Onde",
+      "Masukkan bahan utama, masak hingga matang",
+      "Tambahkan garam dan gula, koreksi rasa",
+      "Masak hingga bumbu meresap sempurna",
+      "Angkat dan sajikan hangat"
+    ],
+    "tips": "Untuk hasil terbaik Onde-Onde, gunakan bahan segar dan bumbu berkualitas. Masak dengan api sedang agar bumbu meresap sempurna."
+  },
+  {
+    "nama": "Klepon",
+    "kategori": "Makanan Ringan",
+    "porsi": "3 porsi",
+    "waktu_masak": "2 jam",
+    "tingkat_kesulitan": "Sulit",
+    "bahan": [
+      "Bahan utama untuk Klepon",
+      "Bumbu dasar: bawang merah, bawang putih, cabai",
+      "Rempah-rempah sesuai kebutuhan",
+      "Garam dan gula secukupnya",
+      "Minyak goreng untuk menumis"
+    ],
+    "langkah": [
+      "Siapkan semua bahan dan bumbu",
+      "Haluskan bumbu yang perlu dihaluskan",
+      "Tumis bumbu hingga harum untuk Klepon",
+      "Masukkan bahan utama, masak hingga matang",
+      "Tambahkan garam dan gula, koreksi rasa",
+      "Masak hingga bumbu meresap sempurna",
+      "Angkat dan sajikan hangat"
+    ],
+    "tips": "Untuk hasil terbaik Klepon, gunakan bahan segar dan bumbu berkualitas. Masak dengan api sedang agar bumbu meresap sempurna."
+  },
+  {
+    "nama": "Dadar Gulung",
+    "kategori": "Makanan Ringan",
+    "porsi": "4 porsi",
+    "waktu_masak": "3 jam",
+    "tingkat_kesulitan": "Mudah",
+    "bahan": [
+      "Bahan utama untuk Dadar Gulung",
+      "Bumbu dasar: bawang merah, bawang putih, cabai",
+      "Rempah-rempah sesuai kebutuhan",
+      "Garam dan gula secukupnya",
+      "Minyak goreng untuk menumis"
+    ],
+    "langkah": [
+      "Siapkan semua bahan dan bumbu",
+      "Haluskan bumbu yang perlu dihaluskan",
+      "Tumis bumbu hingga harum untuk Dadar Gulung",
+      "Masukkan bahan utama, masak hingga matang",
+      "Tambahkan garam dan gula, koreksi rasa",
+      "Masak hingga bumbu meresap sempurna",
+      "Angkat dan sajikan hangat"
+    ],
+    "tips": "Untuk hasil terbaik Dadar Gulung, gunakan bahan segar dan bumbu berkualitas. Masak dengan api sedang agar bumbu meresap sempurna."
+  },
+  {
+    "nama": "Kue Lapis Legit",
+    "kategori": "Makanan Ringan",
+    "porsi": "5 porsi",
+    "waktu_masak": "15 menit",
+    "tingkat_kesulitan": "Sedang",
+    "bahan": [
+      "Bahan utama untuk Kue Lapis Legit",
+      "Bumbu dasar: bawang merah, bawang putih, cabai",
+      "Rempah-rempah sesuai kebutuhan",
+      "Garam dan gula secukupnya",
+      "Minyak goreng untuk menumis"
+    ],
+    "langkah": [
+      "Siapkan semua bahan dan bumbu",
+      "Haluskan bumbu yang perlu dihaluskan",
+      "Tumis bumbu hingga harum untuk Kue Lapis Legit",
+      "Masukkan bahan utama, masak hingga matang",
+      "Tambahkan garam dan gula, koreksi rasa",
+      "Masak hingga bumbu meresap sempurna",
+      "Angkat dan sajikan hangat"
+    ],
+    "tips": "Untuk hasil terbaik Kue Lapis Legit, gunakan bahan segar dan bumbu berkualitas. Masak dengan api sedang agar bumbu meresap sempurna."
+  },
+  {
+    "nama": "Serabi Solo",
+    "kategori": "Makanan Ringan",
+    "porsi": "6 porsi",
+    "waktu_masak": "20 menit",
+    "tingkat_kesulitan": "Sulit",
+    "bahan": [
+      "Bahan utama untuk Serabi Solo",
+      "Bumbu dasar: bawang merah, bawang putih, cabai",
+      "Rempah-rempah sesuai kebutuhan",
+      "Garam dan gula secukupnya",
+      "Minyak goreng untuk menumis"
+    ],
+    "langkah": [
+      "Siapkan semua bahan dan bumbu",
+      "Haluskan bumbu yang perlu dihaluskan",
+      "Tumis bumbu hingga harum untuk Serabi Solo",
+      "Masukkan bahan utama, masak hingga matang",
+      "Tambahkan garam dan gula, koreksi rasa",
+      "Masak hingga bumbu meresap sempurna",
+      "Angkat dan sajikan hangat"
+    ],
+    "tips": "Untuk hasil terbaik Serabi Solo, gunakan bahan segar dan bumbu berkualitas. Masak dengan api sedang agar bumbu meresap sempurna."
+  },
+  {
+    "nama": "Martabak Manis",
+    "kategori": "Makanan Ringan",
+    "porsi": "2 porsi",
+    "waktu_masak": "30 menit",
+    "tingkat_kesulitan": "Mudah",
+    "bahan": [
+      "Bahan utama untuk Martabak Manis",
+      "Bumbu dasar: bawang merah, bawang putih, cabai",
+      "Rempah-rempah sesuai kebutuhan",
+      "Garam dan gula secukupnya",
+      "Minyak goreng untuk menumis"
+    ],
+    "langkah": [
+      "Siapkan semua bahan dan bumbu",
+      "Haluskan bumbu yang perlu dihaluskan",
+      "Tumis bumbu hingga harum untuk Martabak Manis",
+      "Masukkan bahan utama, masak hingga matang",
+      "Tambahkan garam dan gula, koreksi rasa",
+      "Masak hingga bumbu meresap sempurna",
+      "Angkat dan sajikan hangat"
+    ],
+    "tips": "Untuk hasil terbaik Martabak Manis, gunakan bahan segar dan bumbu berkualitas. Masak dengan api sedang agar bumbu meresap sempurna."
+  },
+  {
+    "nama": "Pancake Durian",
+    "kategori": "Makanan Ringan",
+    "porsi": "3 porsi",
+    "waktu_masak": "45 menit",
+    "tingkat_kesulitan": "Sedang",
+    "bahan": [
+      "Bahan utama untuk Pancake Durian",
+      "Bumbu dasar: bawang merah, bawang putih, cabai",
+      "Rempah-rempah sesuai kebutuhan",
+      "Garam dan gula secukupnya",
+      "Minyak goreng untuk menumis"
+    ],
+    "langkah": [
+      "Siapkan semua bahan dan bumbu",
+      "Haluskan bumbu yang perlu dihaluskan",
+      "Tumis bumbu hingga harum untuk Pancake Durian",
+      "Masukkan bahan utama, masak hingga matang",
+      "Tambahkan garam dan gula, koreksi rasa",
+      "Masak hingga bumbu meresap sempurna",
+      "Angkat dan sajikan hangat"
+    ],
+    "tips": "Untuk hasil terbaik Pancake Durian, gunakan bahan segar dan bumbu berkualitas. Masak dengan api sedang agar bumbu meresap sempurna."
+  },
+  {
+    "nama": "Pisang Goreng Keju",
+    "kategori": "Makanan Ringan",
+    "porsi": "4 porsi",
+    "waktu_masak": "1 jam",
+    "tingkat_kesulitan": "Sulit",
+    "bahan": [
+      "Bahan utama untuk Pisang Goreng Keju",
+      "Bumbu dasar: bawang merah, bawang putih, cabai",
+      "Rempah-rempah sesuai kebutuhan",
+      "Garam dan gula secukupnya",
+      "Minyak goreng untuk menumis"
+    ],
+    "langkah": [
+      "Siapkan semua bahan dan bumbu",
+      "Haluskan bumbu yang perlu dihaluskan",
+      "Tumis bumbu hingga harum untuk Pisang Goreng Keju",
+      "Masukkan bahan utama, masak hingga matang",
+      "Tambahkan garam dan gula, koreksi rasa",
+      "Masak hingga bumbu meresap sempurna",
+      "Angkat dan sajikan hangat"
+    ],
+    "tips": "Untuk hasil terbaik Pisang Goreng Keju, gunakan bahan segar dan bumbu berkualitas. Masak dengan api sedang agar bumbu meresap sempurna."
+  },
+  {
+    "nama": "Cireng Bumbu Rujak",
+    "kategori": "Makanan Ringan",
+    "porsi": "5 porsi",
+    "waktu_masak": "1 jam 30 menit",
+    "tingkat_kesulitan": "Mudah",
+    "bahan": [
+      "Bahan utama untuk Cireng Bumbu Rujak",
+      "Bumbu dasar: bawang merah, bawang putih, cabai",
+      "Rempah-rempah sesuai kebutuhan",
+      "Garam dan gula secukupnya",
+      "Minyak goreng untuk menumis"
+    ],
+    "langkah": [
+      "Siapkan semua bahan dan bumbu",
+      "Haluskan bumbu yang perlu dihaluskan",
+      "Tumis bumbu hingga harum untuk Cireng Bumbu Rujak",
+      "Masukkan bahan utama, masak hingga matang",
+      "Tambahkan garam dan gula, koreksi rasa",
+      "Masak hingga bumbu meresap sempurna",
+      "Angkat dan sajikan hangat"
+    ],
+    "tips": "Untuk hasil terbaik Cireng Bumbu Rujak, gunakan bahan segar dan bumbu berkualitas. Masak dengan api sedang agar bumbu meresap sempurna."
+  },
+  {
+    "nama": "Batagor Bandung",
+    "kategori": "Makanan Ringan",
+    "porsi": "6 porsi",
+    "waktu_masak": "2 jam",
+    "tingkat_kesulitan": "Sedang",
+    "bahan": [
+      "Bahan utama untuk Batagor Bandung",
+      "Bumbu dasar: bawang merah, bawang putih, cabai",
+      "Rempah-rempah sesuai kebutuhan",
+      "Garam dan gula secukupnya",
+      "Minyak goreng untuk menumis"
+    ],
+    "langkah": [
+      "Siapkan semua bahan dan bumbu",
+      "Haluskan bumbu yang perlu dihaluskan",
+      "Tumis bumbu hingga harum untuk Batagor Bandung",
+      "Masukkan bahan utama, masak hingga matang",
+      "Tambahkan garam dan gula, koreksi rasa",
+      "Masak hingga bumbu meresap sempurna",
+      "Angkat dan sajikan hangat"
+    ],
+    "tips": "Untuk hasil terbaik Batagor Bandung, gunakan bahan segar dan bumbu berkualitas. Masak dengan api sedang agar bumbu meresap sempurna."
+  },
+  {
+    "nama": "Siomay Bandung",
+    "kategori": "Makanan Ringan",
+    "porsi": "2 porsi",
+    "waktu_masak": "3 jam",
+    "tingkat_kesulitan": "Sulit",
+    "bahan": [
+      "Bahan utama untuk Siomay Bandung",
+      "Bumbu dasar: bawang merah, bawang putih, cabai",
+      "Rempah-rempah sesuai kebutuhan",
+      "Garam dan gula secukupnya",
+      "Minyak goreng untuk menumis"
+    ],
+    "langkah": [
+      "Siapkan semua bahan dan bumbu",
+      "Haluskan bumbu yang perlu dihaluskan",
+      "Tumis bumbu hingga harum untuk Siomay Bandung",
+      "Masukkan bahan utama, masak hingga matang",
+      "Tambahkan garam dan gula, koreksi rasa",
+      "Masak hingga bumbu meresap sempurna",
+      "Angkat dan sajikan hangat"
+    ],
+    "tips": "Untuk hasil terbaik Siomay Bandung, gunakan bahan segar dan bumbu berkualitas. Masak dengan api sedang agar bumbu meresap sempurna."
+  },
+  {
+    "nama": "Somay Ikan",
+    "kategori": "Makanan Ringan",
+    "porsi": "3 porsi",
+    "waktu_masak": "15 menit",
+    "tingkat_kesulitan": "Mudah",
+    "bahan": [
+      "Bahan utama untuk Somay Ikan",
+      "Bumbu dasar: bawang merah, bawang putih, cabai",
+      "Rempah-rempah sesuai kebutuhan",
+      "Garam dan gula secukupnya",
+      "Minyak goreng untuk menumis"
+    ],
+    "langkah": [
+      "Siapkan semua bahan dan bumbu",
+      "Haluskan bumbu yang perlu dihaluskan",
+      "Tumis bumbu hingga harum untuk Somay Ikan",
+      "Masukkan bahan utama, masak hingga matang",
+      "Tambahkan garam dan gula, koreksi rasa",
+      "Masak hingga bumbu meresap sempurna",
+      "Angkat dan sajikan hangat"
+    ],
+    "tips": "Untuk hasil terbaik Somay Ikan, gunakan bahan segar dan bumbu berkualitas. Masak dengan api sedang agar bumbu meresap sempurna."
+  },
+  {
+    "nama": "Otak-Otak Bandeng",
+    "kategori": "Makanan Ringan",
+    "porsi": "4 porsi",
+    "waktu_masak": "20 menit",
+    "tingkat_kesulitan": "Sedang",
+    "bahan": [
+      "Bahan utama untuk Otak-Otak Bandeng",
+      "Bumbu dasar: bawang merah, bawang putih, cabai",
+      "Rempah-rempah sesuai kebutuhan",
+      "Garam dan gula secukupnya",
+      "Minyak goreng untuk menumis"
+    ],
+    "langkah": [
+      "Siapkan semua bahan dan bumbu",
+      "Haluskan bumbu yang perlu dihaluskan",
+      "Tumis bumbu hingga harum untuk Otak-Otak Bandeng",
+      "Masukkan bahan utama, masak hingga matang",
+      "Tambahkan garam dan gula, koreksi rasa",
+      "Masak hingga bumbu meresap sempurna",
+      "Angkat dan sajikan hangat"
+    ],
+    "tips": "Untuk hasil terbaik Otak-Otak Bandeng, gunakan bahan segar dan bumbu berkualitas. Masak dengan api sedang agar bumbu meresap sempurna."
+  },
+  {
+    "nama": "Lontong Sayur",
+    "kategori": "Makanan Berkuah",
+    "porsi": "5 porsi",
+    "waktu_masak": "30 menit",
+    "tingkat_kesulitan": "Sulit",
+    "bahan": [
+      "Bahan utama untuk Lontong Sayur",
+      "Bumbu dasar: bawang merah, bawang putih, cabai",
+      "Rempah-rempah sesuai kebutuhan",
+      "Garam dan gula secukupnya",
+      "Minyak goreng untuk menumis"
+    ],
+    "langkah": [
+      "Siapkan semua bahan dan bumbu",
+      "Haluskan bumbu yang perlu dihaluskan",
+      "Tumis bumbu hingga harum untuk Lontong Sayur",
+      "Masukkan bahan utama, masak hingga matang",
+      "Tambahkan garam dan gula, koreksi rasa",
+      "Masak hingga bumbu meresap sempurna",
+      "Angkat dan sajikan hangat"
+    ],
+    "tips": "Untuk hasil terbaik Lontong Sayur, gunakan bahan segar dan bumbu berkualitas. Masak dengan api sedang agar bumbu meresap sempurna."
+  },
+  {
+    "nama": "Lontong Cap Gomeh",
+    "kategori": "Makanan Berkuah",
+    "porsi": "6 porsi",
+    "waktu_masak": "45 menit",
+    "tingkat_kesulitan": "Mudah",
+    "bahan": [
+      "Bahan utama untuk Lontong Cap Gomeh",
+      "Bumbu dasar: bawang merah, bawang putih, cabai",
+      "Rempah-rempah sesuai kebutuhan",
+      "Garam dan gula secukupnya",
+      "Minyak goreng untuk menumis"
+    ],
+    "langkah": [
+      "Siapkan semua bahan dan bumbu",
+      "Haluskan bumbu yang perlu dihaluskan",
+      "Tumis bumbu hingga harum untuk Lontong Cap Gomeh",
+      "Masukkan bahan utama, masak hingga matang",
+      "Tambahkan garam dan gula, koreksi rasa",
+      "Masak hingga bumbu meresap sempurna",
+      "Angkat dan sajikan hangat"
+    ],
+    "tips": "Untuk hasil terbaik Lontong Cap Gomeh, gunakan bahan segar dan bumbu berkualitas. Masak dengan api sedang agar bumbu meresap sempurna."
+  }
+]
