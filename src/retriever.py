@@ -90,17 +90,19 @@ class RecipeRetriever:
         return search_results['results']
     
     def format_context(self, retrieved_docs: List[Dict], 
-                       include_metadata: bool = True) -> str:
+                       include_metadata: bool = True,
+                       max_context_length: int = 3000) -> str:
         """
         Memformat dokumen yang diambil menjadi context string
-        untuk diberikan ke LLM
+        untuk diberikan ke LLM (dengan optimasi panjang)
         
         Args:
             retrieved_docs: List dokumen hasil retrieval
             include_metadata: Include metadata dalam context
+            max_context_length: Maximum characters untuk context (default 3000)
             
         Returns:
-            String context yang terformat
+            String context yang terformat dan optimized
         """
         if not retrieved_docs:
             return "Tidak ada resep yang relevan ditemukan."
@@ -108,23 +110,42 @@ class RecipeRetriever:
         context_parts = []
         context_parts.append("Berikut adalah resep-resep yang relevan:\n")
         
+        total_length = len(context_parts[0])
+        
         for i, doc in enumerate(retrieved_docs, 1):
-            context_parts.append(f"\n=== Resep {i}: {doc['metadata']['nama']} ===")
+            # Start building this recipe section
+            recipe_parts = []
+            recipe_parts.append(f"\n=== Resep {i}: {doc['metadata']['nama']} ===")
             
             if include_metadata:
                 metadata = doc['metadata']
                 if metadata.get('kategori'):
-                    context_parts.append(f"Kategori: {metadata['kategori']}")
+                    recipe_parts.append(f"Kategori: {metadata['kategori']}")
                 if metadata.get('porsi'):
-                    context_parts.append(f"Porsi: {metadata['porsi']}")
+                    recipe_parts.append(f"Porsi: {metadata['porsi']}")
                 if metadata.get('waktu_masak'):
-                    context_parts.append(f"Waktu Memasak: {metadata['waktu_masak']}")
+                    recipe_parts.append(f"Waktu Memasak: {metadata['waktu_masak']}")
                 if metadata.get('tingkat_kesulitan'):
-                    context_parts.append(f"Tingkat Kesulitan: {metadata['tingkat_kesulitan']}")
+                    recipe_parts.append(f"Tingkat Kesulitan: {metadata['tingkat_kesulitan']}")
             
-            context_parts.append(f"\n{doc['document']}")
+            # Truncate document if too long (keep first 800 chars)
+            doc_content = doc['document']
+            if len(doc_content) > 800:
+                doc_content = doc_content[:800] + "\\n...(dipotong untuk efisiensi)"
+            
+            recipe_parts.append(f"\\n{doc_content}")
+            
+            recipe_text = "\\n".join(recipe_parts)
+            
+            # Check if adding this recipe exceeds limit
+            if total_length + len(recipe_text) > max_context_length:
+                context_parts.append(f"\\n(Resep lainnya tidak ditampilkan untuk efisiensi)")
+                break
+            
+            context_parts.append(recipe_text)
+            total_length += len(recipe_text)
         
-        return "\n".join(context_parts)
+        return "\\n".join(context_parts)
     
     def get_retrieval_summary(self, retrieved_docs: List[Dict]) -> Dict:
         """

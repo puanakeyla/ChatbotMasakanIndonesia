@@ -89,9 +89,14 @@ st.markdown("""
     .stChatMessage {
         background: #ffffff;
         border-radius: 12px;
-        padding: 1rem;
-        margin-bottom: 1rem;
+        padding: 1.25rem 1.5rem;
+        margin-bottom: 1.5rem;
         box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+    }
+    
+    /* Chat Message Content */
+    .stChatMessage [data-testid="stMarkdownContainer"] {
+        padding: 0.25rem 0;
     }
     
     /* Buttons */
@@ -234,6 +239,13 @@ def main():
         </div>
         """, unsafe_allow_html=True)
         
+        # RAG Settings (must be defined before categories use them)
+        st.markdown('<div class="section-title">Konfigurasi RAG</div>', unsafe_allow_html=True)
+        top_k = st.slider("Jumlah resep yang diambil", 1, 5, 3, help="Semakin banyak, semakin lengkap konteksnya")
+        show_sources = st.checkbox("Tampilkan sumber resep", value=True, help="Lihat resep mana yang digunakan AI")
+        
+        st.markdown("---")
+        
         # Categories
         st.markdown('<div class="section-title">Kategori Masakan</div>', unsafe_allow_html=True)
         
@@ -260,13 +272,6 @@ def main():
                         message_data["sources"] = response["sources"]
                     st.session_state.messages.append(message_data)
                 st.rerun()
-        
-        st.markdown("---")
-        
-        # RAG Settings
-        st.markdown('<div class="section-title">Konfigurasi RAG</div>', unsafe_allow_html=True)
-        top_k = st.slider("Jumlah resep yang diambil", 1, 5, 3, help="Semakin banyak, semakin lengkap konteksnya")
-        show_sources = st.checkbox("Tampilkan sumber resep", value=True, help="Lihat resep mana yang digunakan AI")
         
         st.markdown("---")
         
@@ -311,11 +316,11 @@ def main():
                         for idx, source in enumerate(message["sources"], 1):
                             similarity_pct = source['similarity'] * 100 if source['similarity'] else 0
                             st.markdown(f"""
-                            <div style="background: #f9fafb; padding: 1rem; border-radius: 8px; margin-bottom: 0.5rem; border-left: 3px solid #667eea;">
-                                <strong>{idx}. {source['nama']}</strong><br>
-                                <small style="color: #6b7280;">
+                            <div style="background: #f9fafb; padding: 1rem 1.25rem; border-radius: 10px; margin: 0.75rem 0.5rem; border-left: 4px solid #667eea; box-shadow: 0 1px 3px rgba(0,0,0,0.05);">
+                                <strong style="color: #1f2937;">{idx}. {source['nama']}</strong><br>
+                                <small style="color: #6b7280; line-height: 1.6;">
                                     Kategori: {source['kategori']} | 
-                                    Relevansi: <strong>{similarity_pct:.0f}%</strong>
+                                    Relevansi: <strong style="color: #667eea;">{similarity_pct:.0f}%</strong>
                                 </small>
                             </div>
                             """, unsafe_allow_html=True)
@@ -329,43 +334,60 @@ def main():
         with st.chat_message("user", avatar="👤"):
             st.markdown(prompt)
         
-        # Get bot response
+        # Get bot response with streaming
         with st.chat_message("assistant", avatar="🤖"):
-            with st.spinner("Memproses pertanyaan Anda..."):
-                # Get response from chatbot
-                response = chatbot.chat(
-                    query=prompt,
-                    top_k=top_k,
-                    include_sources=show_sources
-                )
+            # Create placeholder for streaming
+            response_placeholder = st.empty()
+            full_response = ""
+            
+            # Show spinner while retrieving
+            with st.spinner("Mencari resep yang relevan..."):
+                # Get retrieval results first
+                from src.retriever import RecipeRetriever
+                retriever = RecipeRetriever(vector_store, top_k=top_k)
+                retrieved_docs = retriever.retrieve(prompt, top_k=top_k)
+                retrieval_summary = retriever.get_retrieval_summary(retrieved_docs)
+                context = retriever.format_context(retrieved_docs)
+            
+            # Stream the response
+            try:
+                for chunk in chatbot.generate_response_stream(prompt, context):
+                    full_response += chunk
+                    response_placeholder.markdown(full_response + "▌")
                 
-                if response["success"]:
-                    # Display response
-                    st.markdown(response["response"])
-                    
-                    # Display retrieval info in a nicer way
-                    if response["retrieval"]["total_retrieved"] > 0:
-                        recipes_list = ", ".join(response['retrieval']['recipes'])
-                        st.markdown(f"""
-                        <div style="background: #ecfdf5; padding: 0.75rem; border-radius: 8px; border-left: 3px solid #10b981; margin-top: 1rem;">
-                            <small style="color: #065f46;">
-                                <strong>Ditemukan {response['retrieval']['total_retrieved']} resep relevan:</strong> {recipes_list}
-                            </small>
-                        </div>
-                        """, unsafe_allow_html=True)
-                    
-                    # Save message with sources
-                    message_data = {
-                        "role": "assistant",
-                        "content": response["response"]
-                    }
-                    if "sources" in response:
-                        message_data["sources"] = response["sources"]
-                    
-                    st.session_state.messages.append(message_data)
-                else:
-                    error_msg = response.get("error", "Terjadi kesalahan")
-                    st.error(f"Error: {error_msg}")
+                # Final response without cursor
+                response_placeholder.markdown(full_response)
+                
+                # Display retrieval info
+                if retrieval_summary["total_retrieved"] > 0:
+                    recipes_list = ", ".join(retrieval_summary['recipes'])
+                    st.markdown(f"""
+                    <div style="background: #ecfdf5; padding: 1rem 1.25rem; border-radius: 10px; border-left: 4px solid #10b981; margin: 1.5rem 0.5rem 0.5rem 0.5rem; box-shadow: 0 1px 3px rgba(0,0,0,0.05);">
+                        <small style="color: #065f46; line-height: 1.6;">
+                            <strong>✓ Ditemukan {retrieval_summary['total_retrieved']} resep relevan:</strong> {recipes_list}
+                        </small>
+                    </div>
+                    """, unsafe_allow_html=True)
+                
+                # Save message with sources
+                message_data = {
+                    "role": "assistant",
+                    "content": full_response
+                }
+                if show_sources and retrieved_docs:
+                    message_data["sources"] = [
+                        {
+                            "nama": doc["metadata"]["nama"],
+                            "kategori": doc["metadata"].get("kategori", ""),
+                            "similarity": 1 / (1 + doc["distance"]) if doc.get("distance") else None
+                        }
+                        for doc in retrieved_docs
+                    ]
+                
+                st.session_state.messages.append(message_data)
+                
+            except Exception as e:
+                st.error(f"Error: {str(e)}")
     
     # Example questions
     st.markdown("---")

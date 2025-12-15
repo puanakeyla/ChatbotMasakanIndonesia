@@ -28,7 +28,7 @@ class RAGChatbot:
                  retriever: RecipeRetriever,
                  model: str = "gemini-2.5-flash",
                  temperature: float = 0.7,
-                 max_tokens: int = 1000,
+                 max_tokens: int = 4096,
                  use_gemini: bool = True):
         """
         Inisialisasi RAG Chatbot
@@ -176,7 +176,8 @@ Instruksi:
                 
                 response = self.client.generate_content(
                     full_prompt,
-                    generation_config=generation_config
+                    generation_config=generation_config,
+                    stream=False  # Set False for now, streaming handled at app level
                 )
                 
                 assistant_message = response.text
@@ -216,6 +217,31 @@ Instruksi:
                 "response": f"Maaf, terjadi kesalahan: {str(e)}",
                 "error": str(e)
             }
+    
+    def generate_response_stream(self, query: str, context: str):
+        """Generate streaming response for better UX"""
+        user_prompt = self.create_prompt(query, context)
+        
+        full_prompt = f"{self.system_prompt}\n\n{user_prompt}"
+        
+        generation_config = genai.types.GenerationConfig(
+            temperature=self.temperature,
+            max_output_tokens=self.max_tokens,
+        )
+        
+        try:
+            response = self.client.generate_content(
+                full_prompt,
+                generation_config=generation_config,
+                stream=True
+            )
+            
+            for chunk in response:
+                if chunk.text:
+                    yield chunk.text
+                    
+        except Exception as e:
+            yield f"Error: {str(e)}"
     
     def chat(self, query: str, 
              top_k: int = 3,
