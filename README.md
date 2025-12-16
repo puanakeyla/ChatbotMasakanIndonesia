@@ -7,7 +7,7 @@ Chatbot asisten memasak berbasis **Retrieval-Augmented Generation (RAG)** dan **
 Sistem ini mengintegrasikan:
 - **Retrieval-Augmented Generation (RAG)** - Menggabungkan pencarian informasi dengan generasi bahasa alami
 - **Vector Database (ChromaDB)** - Penyimpanan dan pencarian semantik resep
-- **Large Language Model (OpenAI GPT)** - Generasi jawaban yang kontekstual dan akurat
+- **Large Language Model (Gemini 2.5)** - Generasi jawaban yang kontekstual dan akurat
 - **Sentence Transformers** - Model embedding multilingual untuk bahasa Indonesia
 - **Streamlit** - Interface web yang interaktif
 
@@ -47,7 +47,7 @@ Sistem ini mengintegrasikan:
                │
                ▼
 ┌─────────────────────────────────┐
-│   LLM (OpenAI GPT-3.5/4)        │
+│   LLM (Gemini 2.5)        │
 │   - Answer Generation           │
 └──────────────┬──────────────────┘
                │ Response
