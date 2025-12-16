@@ -371,7 +371,7 @@ Proyek ini dibuat untuk keperluan edukasi dan penelitian.
 
 - Data resep dikumpulkan dari berbagai sumber kuliner Indonesia
 - Menggunakan open-source libraries dan frameworks
-- OpenAI untuk LLM API
+- Gemini untuk LLM API
 
 ---
 
