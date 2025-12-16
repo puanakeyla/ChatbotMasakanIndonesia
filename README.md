@@ -215,7 +215,7 @@ File `.env` berisi konfigurasi:
 
 ```env
 # Required
-OPENAI_API_KEY=your_openai_api_key_here
+GEMINI_API_KEY=your_gemini_api_key_here
 
 # Optional (dengan default values)
 EMBEDDING_MODEL=sentence-transformers/paraphrase-multilingual-mpnet-base-v2
@@ -353,7 +353,7 @@ Untuk menggunakan model LLM atau embedding berbeda:
 - [ChromaDB](https://www.trychroma.com/) - Vector database
 - [Sentence Transformers](https://www.sbert.net/) - Text embeddings
 - [Streamlit](https://streamlit.io/) - Web framework
-- [OpenAI API](https://platform.openai.com/) - LLM provider
+- [Gemini API](https://platform.openai.com/) - LLM provider
 
 ### Papers
 - RAG: [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/abs/2005.11401)
