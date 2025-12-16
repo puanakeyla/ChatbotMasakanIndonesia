@@ -71,7 +71,7 @@ Sistem ini mengintegrasikan:
 
 - Python 3.8 atau lebih tinggi
 - pip (Python package manager)
-- OpenAI API Key
+- Gemini API Key
 
 ### Langkah Instalasi
 
@@ -89,9 +89,9 @@ Sistem ini mengintegrasikan:
    copy .env.example .env
    ```
    
-   Edit file `.env` dan tambahkan OpenAI API key Anda:
+   Edit file `.env` dan tambahkan Gemini API key Anda:
    ```
-   OPENAI_API_KEY=sk-your-api-key-here
+   GEMINI_API_KEY=sk-your-api-key-here
    ```
 
 4. **Setup database (Vector Store)**
@@ -292,7 +292,7 @@ python src/rag_chatbot.py
 
 ## 🛠️ Troubleshooting
 
-### Error: "OPENAI_API_KEY tidak ditemukan"
+### Error: "GEMINI_API_KEY tidak ditemukan"
 - Pastikan file `.env` sudah dibuat
 - Pastikan API key sudah diisi dengan benar
 - Restart aplikasi setelah mengubah `.env`
