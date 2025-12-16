@@ -219,7 +219,7 @@ GEMINI_API_KEY=your_gemini_api_key_here
 
 # Optional (dengan default values)
 EMBEDDING_MODEL=sentence-transformers/paraphrase-multilingual-mpnet-base-v2
-LLM_MODEL=gpt-3.5-turbo
+LLM_MODEL=gemini 2.5
 TEMPERATURE=0.7
 VECTOR_STORE_TYPE=chroma
 CHUNK_SIZE=1000
@@ -340,7 +340,7 @@ Untuk menggunakan model LLM atau embedding berbeda:
 
 1. Edit file `.env`:
    ```env
-   LLM_MODEL=gpt-4  # atau model lain
+   LLM_MODEL=gemini 2.5  # atau model lain
    EMBEDDING_MODEL=nama-model-lain
    ```
 
